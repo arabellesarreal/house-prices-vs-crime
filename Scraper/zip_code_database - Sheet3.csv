@@ -1,0 +1,45 @@
+zip,type,decommissioned,primary_city,acceptable_cities,unacceptable_cities,state,county,timezone,area_codes,world_region,country,latitude,longitude,irs_estimated_population
+23220,STANDARD,0,Richmond,,Saunders,VA,Richmond city,America/New_York,804,NA,US,37.55,-77.46,19340
+23221,STANDARD,0,Richmond,,Stewart,VA,Richmond city,America/New_York,804,NA,US,37.55,-77.49,12340
+23222,STANDARD,0,Richmond,,,VA,Richmond city,America/New_York,804,NA,US,37.58,-77.42,20450
+23223,STANDARD,0,Richmond,,,VA,Henrico County,America/New_York,804,NA,US,37.56,-77.38,41740
+23224,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Richmond city,America/New_York,804,NA,US,37.5,-77.47,29370
+23225,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",Forest Hill,VA,Richmond city,America/New_York,804,NA,US,37.52,-77.51,32940
+23226,STANDARD,0,Richmond,,,VA,Richmond city,America/New_York,804,NA,US,37.58,-77.52,15480
+23227,STANDARD,0,Richmond,,,VA,Henrico County,America/New_York,804,NA,US,37.61,-77.44,21100
+23234,STANDARD,0,Richmond,"Ampthill, N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.45,-77.47,39130
+23235,STANDARD,0,Richmond,"Bon Air, N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.51,-77.56,30870
+23236,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.48,-77.59,26340
+23237,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.4,-77.45,22270
+23320,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.75,-76.22,53440
+23321,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.8,-76.42,35320
+23322,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.62,-76.23,62070
+23323,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.67,-76.3,39710
+23324,STANDARD,0,Chesapeake,South Norfolk,,VA,Chesapeake city,America/New_York,757,NA,US,36.8,-76.27,20140
+23325,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.81,-76.24,15920
+23434,STANDARD,0,Suffolk,,,VA,Suffolk city,America/New_York,757,NA,US,36.7,-76.63,44580
+23435,STANDARD,0,Suffolk,,Driver,VA,Suffolk city,America/New_York,757,NA,US,36.84,-76.48,30160
+23451,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.87,-76.01,37930
+23452,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.85,-76.09,52460
+23453,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.78,-76.08,32640
+23454,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.82,-76.03,52790
+23455,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.89,-76.15,43980
+23456,STANDARD,0,Virginia Beach,"Princess Anne, Va Bch, Va Beach, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.73,-76.04,56910
+23462,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.84,-76.15,57670
+23464,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.8,-76.19,68380
+23502,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.86,-76.2,17280
+23503,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.95,-76.27,25120
+23504,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.86,-76.27,16070
+23505,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.91,-76.29,22200
+23508,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.88,-76.31,12090
+23509,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.88,-76.26,11390
+23513,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.89,-76.24,24820
+23518,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.92,-76.22,26470
+23661,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.01,-76.39,11690
+23663,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.03,-76.31,11070
+23666,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.06,-76.41,45340
+23669,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.05,-76.34,33680
+23701,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.81,-76.37,20630
+23703,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.89,-76.37,23780
+23704,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.82,-76.31,14450
+23707,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.84,-76.34,12050

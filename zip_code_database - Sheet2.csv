@@ -1,0 +1,974 @@
+zip,type,decommissioned,primary_city,acceptable_cities,unacceptable_cities,state,county,timezone,area_codes,world_region,country,latitude,longitude,irs_estimated_population
+20105,STANDARD,0,Aldie,Stone Ridge,,VA,Loudoun County,America/New_York,"540,703,571",NA,US,38.97,-77.64,34630
+20109,STANDARD,0,Manassas,"Sudley Spgs, Sudley Springs",,VA,Prince William County,America/New_York,"571,703",NA,US,38.79,-77.53,38530
+20110,STANDARD,0,Manassas,,,VA,Manassas city,America/New_York,"571,703",NA,US,38.74,-77.48,43850
+20111,STANDARD,0,Manassas,Manassas Park,,VA,Prince William County,America/New_York,"571,703",NA,US,38.75,-77.43,36140
+20112,STANDARD,0,Manassas,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.66,-77.43,28520
+20120,STANDARD,0,Centreville,Sully Station,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.84,-77.44,40290
+20121,STANDARD,0,Centreville,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.81,-77.46,26260
+20136,STANDARD,0,Bristow,,,VA,Prince William County,America/New_York,571,NA,US,38.74,-77.55,30590
+20147,STANDARD,0,Ashburn,,,VA,Loudoun County,America/New_York,703,NA,US,39.04,-77.48,63200
+20148,STANDARD,0,Ashburn,"Brambleton, Broadlands",,VA,Loudoun County,America/New_York,"571,703",NA,US,39,-77.52,61230
+20151,STANDARD,0,Chantilly,Fairfax,,VA,Fairfax County,America/New_York,571,NA,US,38.9,-77.45,21910
+20152,STANDARD,0,Chantilly,"Fairfax, South Riding",,VA,Loudoun County,America/New_York,"571,703",NA,US,38.92,-77.5,36330
+20155,STANDARD,0,Gainesville,,,VA,Prince William County,America/New_York,571,NA,US,38.79,-77.61,35920
+20164,STANDARD,0,Sterling,,,VA,Loudoun County,America/New_York,703,NA,US,39,-77.4,38910
+20165,STANDARD,0,Sterling,Potomac Falls,,VA,Loudoun County,America/New_York,703,NA,US,39.06,-77.39,32710
+20169,STANDARD,0,Haymarket,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.88,-77.65,27880
+20170,STANDARD,0,Herndon,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.96,-77.38,40020
+20171,STANDARD,0,Herndon,Oak Hill,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.92,-77.4,49590
+20175,STANDARD,0,Leesburg,,,VA,Loudoun County,America/New_York,"571,703,540",NA,US,39.1,-77.55,31520
+20176,STANDARD,0,Leesburg,Lansdowne,Lucketts,VA,Loudoun County,America/New_York,"540,571,703",NA,US,39.18,-77.54,48900
+20191,STANDARD,0,Reston,Herndon,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.93,-77.35,27840
+22003,STANDARD,0,Annandale,,,VA,Fairfax County,America/New_York,703,NA,US,38.83,-77.21,52810
+22015,STANDARD,0,Burke,Springfield,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.27,41990
+22030,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,571,NA,US,38.84,-77.34,48270
+22031,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.85,-77.29,30390
+22032,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.82,-77.29,28520
+22033,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,703,NA,US,38.88,-77.38,36440
+22041,STANDARD,0,Falls Church,"Baileys Crossroads, Baileys Xrds",,VA,Fairfax County,America/New_York,703,NA,US,38.84,-77.14,23270
+22042,STANDARD,0,Falls Church,Mosby,,VA,Fairfax County,America/New_York,571,NA,US,38.87,-77.2,30860
+22043,STANDARD,0,Falls Church,Pimmit,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.9,-77.2,22680
+22079,STANDARD,0,Lorton,Mason Neck,,VA,Fairfax County,America/New_York,"703,571",NA,US,38.7,-77.24,33200
+22101,STANDARD,0,Mc Lean,Mclean,Maclean,VA,Fairfax County,America/New_York,"571,703",NA,US,38.94,-77.19,29780
+22102,STANDARD,0,Mc Lean,"Mclean, Tysons, Tysons Corner, West Mclean",Maclean,VA,Fairfax County,America/New_York,"703,571",NA,US,38.95,-77.23,24130
+22150,STANDARD,0,Springfield,,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.17,26310
+22152,STANDARD,0,Springfield,"W Springfield, West Springfield",,VA,Fairfax County,America/New_York,"571,703",NA,US,38.77,-77.23,28740
+22153,STANDARD,0,Springfield,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.74,-77.24,31860
+22180,STANDARD,0,Vienna,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.9,-77.26,24750
+22182,STANDARD,0,Vienna,"Tysons, Tysons Corner",,VA,Fairfax County,America/New_York,"571,703",NA,US,38.94,-77.27,26320
+22191,STANDARD,0,Woodbridge,,Wdbg,VA,Prince William County,America/New_York,"571,703",NA,US,38.63,-77.26,67700
+22192,STANDARD,0,Woodbridge,"Lake Ridge, Prince William, Prince Wm",,VA,Prince William County,America/New_York,"571,703",NA,US,38.68,-77.31,56480
+22193,STANDARD,0,Woodbridge,Dale City,Dalecity,VA,Prince William County,America/New_York,"571,703",NA,US,38.64,-77.35,80020
+22201,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"571,703",NA,US,38.89,-77.1,30200
+22202,STANDARD,0,Arlington,,Crystal City,VA,Arlington County,America/New_York,"571,703",NA,US,38.86,-77.05,20190
+22204,STANDARD,0,Arlington,,South,VA,Arlington County,America/New_York,"571,703",NA,US,38.87,-77.1,46120
+22207,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"703,571",NA,US,38.91,-77.12,31340
+22304,STANDARD,0,Alexandria,,"Cameron Station, Theological Seminary, Trade Center",VA,Alexandria city,America/New_York,"571,703",NA,US,38.81,-77.11,42250
+22306,STANDARD,0,Alexandria,Community,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.76,-77.1,29400
+22309,STANDARD,0,Alexandria,Engleside,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.72,-77.11,30880
+22310,STANDARD,0,Alexandria,Franconia,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.12,27670
+22312,STANDARD,0,Alexandria,Lincolnia,,VA,Fairfax County,America/New_York,703,NA,US,38.82,-77.15,27290
+22314,STANDARD,0,Alexandria,,,VA,Alexandria city,America/New_York,"571,703",NA,US,38.81,-77.06,30850
+22315,STANDARD,0,Alexandria,Kingstowne,,VA,Fairfax County,America/New_York,703,NA,US,38.76,-77.15,26710
+22401,STANDARD,0,Fredericksburg,Fredericksbrg,"Enon, Fred",VA,Fredericksburg city,America/New_York,540,NA,US,38.29,-77.48,21760
+22405,STANDARD,0,Fredericksburg,"Falmouth, Fredericksbrg","Fred, Fredericksbg",VA,Stafford County,America/New_York,540,NA,US,38.31,-77.4,32760
+22406,STANDARD,0,Fredericksburg,"Falmouth, Fredericksbrg","Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Stafford County,America/New_York,540,NA,US,38.4,-77.54,25390
+22407,STANDARD,0,Fredericksburg,Fredericksbrg,"Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Spotsylvania County,America/New_York,540,NA,US,38.28,-77.58,57920
+22408,STANDARD,0,Fredericksburg,Fredericksbrg,"Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Spotsylvania County,America/New_York,540,NA,US,38.22,-77.44,29380
+22485,STANDARD,0,King George,Shiloh,Owens,VA,King George County,America/New_York,540,NA,US,38.26,-77.18,23390
+22554,STANDARD,0,Stafford,,,VA,Stafford County,America/New_York,540,NA,US,38.42,-77.4,59850
+22556,STANDARD,0,Stafford,,,VA,Stafford County,America/New_York,540,NA,US,38.47,-77.51,28160
+22601,STANDARD,0,Winchester,,,VA,Winchester city,America/New_York,540,NA,US,39.17,-78.17,24410
+22602,STANDARD,0,Winchester,,,VA,Frederick County,America/New_York,540,NA,US,39.14,-78.28,28510
+22630,STANDARD,0,Front Royal,"Lake Frederick, Lk Frederick, Riverton",,VA,Warren County,America/New_York,540,NA,US,38.92,-78.18,30220
+22655,STANDARD,0,Stephens City,,,VA,Frederick County,America/New_York,540,NA,US,39.09,-78.22,21240
+22701,STANDARD,0,Culpeper,"Raccoon Ford, Winston",Catalpa,VA,Culpeper County,America/New_York,540,NA,US,38.47,-78,33620
+22801,STANDARD,0,Harrisonburg,Rockingham,Harrisburg,VA,Harrisonburg city,America/New_York,540,NA,US,38.43,-78.87,28320
+22802,STANDARD,0,Harrisonburg,Rockingham,,VA,Harrisonburg city,America/New_York,540,NA,US,38.49,-78.86,23810
+22901,STANDARD,0,Charlottesville,Charlottesvle,Chville,VA,Albemarle County,America/New_York,434,NA,US,38.09,-78.56,32290
+22903,STANDARD,0,Charlottesville,"Charlottesvle, University",,VA,Charlottesville city,America/New_York,434,NA,US,38.01,-78.6,26250
+22980,STANDARD,0,Waynesboro,,Park,VA,Waynesboro city,America/New_York,540,NA,US,38.06,-78.9,29680
+23059,STANDARD,0,Glen Allen,,"Glenallen, Gln Alln",VA,Henrico County,America/New_York,804,NA,US,37.7,-77.57,39010
+23060,STANDARD,0,Glen Allen,,"Glen Allenw, Glenallen, Gln Alln",VA,Henrico County,America/New_York,804,NA,US,37.66,-77.48,36000
+23111,STANDARD,0,Mechanicsville,Mechanicsvlle,,VA,Hanover County,America/New_York,804,NA,US,37.62,-77.35,35450
+23112,STANDARD,0,Midlothian,,,VA,Chesterfield County,America/New_York,804,NA,US,37.43,-77.66,52470
+23113,STANDARD,0,Midlothian,,Sycamore Square,VA,Chesterfield County,America/New_York,804,NA,US,37.54,-77.68,26790
+23114,STANDARD,0,Midlothian,,,VA,Chesterfield County,America/New_York,804,NA,US,37.48,-77.65,20460
+23116,STANDARD,0,Mechanicsville,Mechanicsvlle,,VA,Hanover County,America/New_York,804,NA,US,37.68,-77.34,31790
+23139,STANDARD,0,Powhatan,Macon,"Powhatand, Powhatano",VA,Powhatan County,America/New_York,804,NA,US,37.54,-77.92,25800
+23185,STANDARD,0,Williamsburg,,"Wlmg, Wmsbg",VA,James City County,America/New_York,757,NA,US,37.27,-76.7,41710
+23188,STANDARD,0,Williamsburg,,Wlmg,VA,James City County,America/New_York,757,NA,US,37.35,-76.77,42790
+23222,STANDARD,0,Richmond,,,VA,Richmond city,America/New_York,804,NA,US,37.58,-77.42,20450
+23223,STANDARD,0,Richmond,,,VA,Henrico County,America/New_York,804,NA,US,37.56,-77.38,41740
+23224,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Richmond city,America/New_York,804,NA,US,37.5,-77.47,29370
+23225,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",Forest Hill,VA,Richmond city,America/New_York,804,NA,US,37.52,-77.51,32940
+23227,STANDARD,0,Richmond,,,VA,Henrico County,America/New_York,804,NA,US,37.61,-77.44,21100
+23228,STANDARD,0,Henrico,Richmond,Staples Mill,VA,Henrico County,America/New_York,804,NA,US,37.63,-77.49,30420
+23229,STANDARD,0,Henrico,"Regency, Richmond","Tuckahoe, Westbury",VA,Henrico County,America/New_York,804,NA,US,37.59,-77.57,31490
+23231,STANDARD,0,Henrico,Richmond,"Millers, Montrose, Montrose Heights, Varina",VA,Henrico County,America/New_York,804,NA,US,37.44,-77.32,33480
+23233,STANDARD,0,Henrico,"Richmond, Ridge",,VA,Henrico County,America/New_York,804,NA,US,37.65,-77.62,30710
+23234,STANDARD,0,Richmond,"Ampthill, N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.45,-77.47,39130
+23235,STANDARD,0,Richmond,"Bon Air, N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.51,-77.56,30870
+23236,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.48,-77.59,26340
+23237,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.4,-77.45,22270
+23238,STANDARD,0,Henrico,Richmond,,VA,Henrico County,America/New_York,804,NA,US,37.6,-77.65,23730
+23320,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.75,-76.22,53440
+23321,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.8,-76.42,35320
+23322,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.62,-76.23,62070
+23323,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.67,-76.3,39710
+23324,STANDARD,0,Chesapeake,South Norfolk,,VA,Chesapeake city,America/New_York,757,NA,US,36.8,-76.27,20140
+23434,STANDARD,0,Suffolk,,,VA,Suffolk city,America/New_York,757,NA,US,36.7,-76.63,44580
+23435,STANDARD,0,Suffolk,,Driver,VA,Suffolk city,America/New_York,757,NA,US,36.84,-76.48,30160
+23451,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.87,-76.01,37930
+23452,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.85,-76.09,52460
+23453,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.78,-76.08,32640
+23454,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.82,-76.03,52790
+23455,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.89,-76.15,43980
+23456,STANDARD,0,Virginia Beach,"Princess Anne, Va Bch, Va Beach, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.73,-76.04,56910
+23462,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.84,-76.15,57670
+23464,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.8,-76.19,68380
+23503,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.95,-76.27,25120
+23505,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.91,-76.29,22200
+23513,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.89,-76.24,24820
+23518,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.92,-76.22,26470
+23601,STANDARD,0,Newport News,,N N,VA,Newport News city,America/New_York,757,NA,US,37.04,-76.48,22170
+23602,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.11,-76.52,36710
+23606,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.07,-76.51,23290
+23608,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.15,-76.54,39110
+23666,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.06,-76.41,45340
+23669,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.05,-76.34,33680
+23693,STANDARD,0,Yorktown,Tabb,,VA,York County,America/New_York,757,NA,US,37.12,-76.45,22900
+23701,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.81,-76.37,20630
+23703,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.89,-76.37,23780
+23803,STANDARD,0,Petersburg,"N Dinwiddie, North Dinwiddie, S Chesterfld, South Chesterfield",Matoaca,VA,Petersburg city,America/New_York,804,NA,US,37.21,-77.5,32350
+23831,STANDARD,0,Chester,,,VA,Chesterfield County,America/New_York,804,NA,US,37.35,-77.43,33950
+23832,STANDARD,0,Chesterfield,,"Beach, Chesterfld",VA,Chesterfield County,America/New_York,804,NA,US,37.39,-77.59,37180
+23834,STANDARD,0,Colonial Heights,"Colonial Hgts, S Chesterfld, South Chesterfield",,VA,Colonial Heights city,America/New_York,,NA,US,37.26,-77.39,23710
+23860,STANDARD,0,Hopewell,"N Prince Geo, North Prince George",,VA,Hopewell city,America/New_York,804,NA,US,37.29,-77.29,24160
+24012,STANDARD,0,Roanoke,,Bonsack,VA,Roanoke city,America/New_York,540,NA,US,37.31,-79.9,24380
+24018,STANDARD,0,Roanoke,Cave Spring,Poages Mill,VA,Roanoke County,America/New_York,540,NA,US,37.21,-80.04,36160
+24019,STANDARD,0,Roanoke,"Hollins, Hollins Clg",,VA,Roanoke County,America/New_York,540,NA,US,37.35,-79.95,25310
+24060,STANDARD,0,Blacksburg,,,VA,Montgomery County,America/New_York,540,NA,US,37.23,-80.42,25490
+24073,STANDARD,0,Christiansburg,Christiansbrg,"Cambria, Christnsbrg, Prices Fork",VA,Montgomery County,America/New_York,540,NA,US,37.14,-80.4,26920
+24112,STANDARD,0,Martinsville,,,VA,Henry County,America/New_York,276,NA,US,36.68,-79.86,23530
+24153,STANDARD,0,Salem,,"Bennett Springs, Fort Lewis, Glenvar, Hanging Rock, Kesslers Mill, Mason Cove",VA,Salem city,America/New_York,540,NA,US,37.28,-80.05,32470
+24401,STANDARD,0,Staunton,,"Staunton Park, Western State Hospital",VA,Staunton city,America/New_York,540,NA,US,38.15,-79.06,31740
+24502,STANDARD,0,Lynchburg,Timberlake,Fort Hill,VA,Lynchburg city,America/New_York,434,NA,US,37.36,-79.22,32370
+24540,STANDARD,0,Danville,,,VA,Danville city,America/New_York,434,NA,US,36.63,-79.43,24820
+24541,STANDARD,0,Danville,,Schoolfield,VA,Danville city,America/New_York,434,NA,US,36.58,-79.4,20850
+24551,STANDARD,0,Forest,,,VA,Bedford County,America/New_York,,NA,US,37.37,-79.27,24160
+20105,STANDARD,0,Aldie,Stone Ridge,,VA,Loudoun County,America/New_York,"540,703,571",NA,US,38.97,-77.64,34630
+20109,STANDARD,0,Manassas,"Sudley Spgs, Sudley Springs",,VA,Prince William County,America/New_York,"571,703",NA,US,38.79,-77.53,38530
+20110,STANDARD,0,Manassas,,,VA,Manassas city,America/New_York,"571,703",NA,US,38.74,-77.48,43850
+20111,STANDARD,0,Manassas,Manassas Park,,VA,Prince William County,America/New_York,"571,703",NA,US,38.75,-77.43,36140
+20112,STANDARD,0,Manassas,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.66,-77.43,28520
+20120,STANDARD,0,Centreville,Sully Station,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.84,-77.44,40290
+20121,STANDARD,0,Centreville,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.81,-77.46,26260
+20136,STANDARD,0,Bristow,,,VA,Prince William County,America/New_York,571,NA,US,38.74,-77.55,30590
+20147,STANDARD,0,Ashburn,,,VA,Loudoun County,America/New_York,703,NA,US,39.04,-77.48,63200
+20148,STANDARD,0,Ashburn,"Brambleton, Broadlands",,VA,Loudoun County,America/New_York,"571,703",NA,US,39,-77.52,61230
+20151,STANDARD,0,Chantilly,Fairfax,,VA,Fairfax County,America/New_York,571,NA,US,38.9,-77.45,21910
+20152,STANDARD,0,Chantilly,"Fairfax, South Riding",,VA,Loudoun County,America/New_York,"571,703",NA,US,38.92,-77.5,36330
+20155,STANDARD,0,Gainesville,,,VA,Prince William County,America/New_York,571,NA,US,38.79,-77.61,35920
+20164,STANDARD,0,Sterling,,,VA,Loudoun County,America/New_York,703,NA,US,39,-77.4,38910
+20165,STANDARD,0,Sterling,Potomac Falls,,VA,Loudoun County,America/New_York,703,NA,US,39.06,-77.39,32710
+20169,STANDARD,0,Haymarket,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.88,-77.65,27880
+20170,STANDARD,0,Herndon,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.96,-77.38,40020
+20171,STANDARD,0,Herndon,Oak Hill,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.92,-77.4,49590
+20175,STANDARD,0,Leesburg,,,VA,Loudoun County,America/New_York,"571,703,540",NA,US,39.1,-77.55,31520
+20176,STANDARD,0,Leesburg,Lansdowne,Lucketts,VA,Loudoun County,America/New_York,"540,571,703",NA,US,39.18,-77.54,48900
+20191,STANDARD,0,Reston,Herndon,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.93,-77.35,27840
+22003,STANDARD,0,Annandale,,,VA,Fairfax County,America/New_York,703,NA,US,38.83,-77.21,52810
+22015,STANDARD,0,Burke,Springfield,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.27,41990
+22030,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,571,NA,US,38.84,-77.34,48270
+22031,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.85,-77.29,30390
+22032,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.82,-77.29,28520
+22033,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,703,NA,US,38.88,-77.38,36440
+22041,STANDARD,0,Falls Church,"Baileys Crossroads, Baileys Xrds",,VA,Fairfax County,America/New_York,703,NA,US,38.84,-77.14,23270
+22042,STANDARD,0,Falls Church,Mosby,,VA,Fairfax County,America/New_York,571,NA,US,38.87,-77.2,30860
+22043,STANDARD,0,Falls Church,Pimmit,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.9,-77.2,22680
+22079,STANDARD,0,Lorton,Mason Neck,,VA,Fairfax County,America/New_York,"703,571",NA,US,38.7,-77.24,33200
+22101,STANDARD,0,Mc Lean,Mclean,Maclean,VA,Fairfax County,America/New_York,"571,703",NA,US,38.94,-77.19,29780
+22102,STANDARD,0,Mc Lean,"Mclean, Tysons, Tysons Corner, West Mclean",Maclean,VA,Fairfax County,America/New_York,"703,571",NA,US,38.95,-77.23,24130
+22150,STANDARD,0,Springfield,,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.17,26310
+22152,STANDARD,0,Springfield,"W Springfield, West Springfield",,VA,Fairfax County,America/New_York,"571,703",NA,US,38.77,-77.23,28740
+22153,STANDARD,0,Springfield,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.74,-77.24,31860
+22180,STANDARD,0,Vienna,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.9,-77.26,24750
+22182,STANDARD,0,Vienna,"Tysons, Tysons Corner",,VA,Fairfax County,America/New_York,"571,703",NA,US,38.94,-77.27,26320
+22191,STANDARD,0,Woodbridge,,Wdbg,VA,Prince William County,America/New_York,"571,703",NA,US,38.63,-77.26,67700
+22192,STANDARD,0,Woodbridge,"Lake Ridge, Prince William, Prince Wm",,VA,Prince William County,America/New_York,"571,703",NA,US,38.68,-77.31,56480
+22193,STANDARD,0,Woodbridge,Dale City,Dalecity,VA,Prince William County,America/New_York,"571,703",NA,US,38.64,-77.35,80020
+22201,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"571,703",NA,US,38.89,-77.1,30200
+22202,STANDARD,0,Arlington,,Crystal City,VA,Arlington County,America/New_York,"571,703",NA,US,38.86,-77.05,20190
+22204,STANDARD,0,Arlington,,South,VA,Arlington County,America/New_York,"571,703",NA,US,38.87,-77.1,46120
+22207,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"703,571",NA,US,38.91,-77.12,31340
+22304,STANDARD,0,Alexandria,,"Cameron Station, Theological Seminary, Trade Center",VA,Alexandria city,America/New_York,"571,703",NA,US,38.81,-77.11,42250
+22306,STANDARD,0,Alexandria,Community,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.76,-77.1,29400
+22309,STANDARD,0,Alexandria,Engleside,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.72,-77.11,30880
+22310,STANDARD,0,Alexandria,Franconia,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.12,27670
+22312,STANDARD,0,Alexandria,Lincolnia,,VA,Fairfax County,America/New_York,703,NA,US,38.82,-77.15,27290
+22314,STANDARD,0,Alexandria,,,VA,Alexandria city,America/New_York,"571,703",NA,US,38.81,-77.06,30850
+22315,STANDARD,0,Alexandria,Kingstowne,,VA,Fairfax County,America/New_York,703,NA,US,38.76,-77.15,26710
+22401,STANDARD,0,Fredericksburg,Fredericksbrg,"Enon, Fred",VA,Fredericksburg city,America/New_York,540,NA,US,38.29,-77.48,21760
+22405,STANDARD,0,Fredericksburg,"Falmouth, Fredericksbrg","Fred, Fredericksbg",VA,Stafford County,America/New_York,540,NA,US,38.31,-77.4,32760
+22406,STANDARD,0,Fredericksburg,"Falmouth, Fredericksbrg","Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Stafford County,America/New_York,540,NA,US,38.4,-77.54,25390
+22407,STANDARD,0,Fredericksburg,Fredericksbrg,"Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Spotsylvania County,America/New_York,540,NA,US,38.28,-77.58,57920
+22408,STANDARD,0,Fredericksburg,Fredericksbrg,"Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Spotsylvania County,America/New_York,540,NA,US,38.22,-77.44,29380
+22485,STANDARD,0,King George,Shiloh,Owens,VA,King George County,America/New_York,540,NA,US,38.26,-77.18,23390
+22554,STANDARD,0,Stafford,,,VA,Stafford County,America/New_York,540,NA,US,38.42,-77.4,59850
+22556,STANDARD,0,Stafford,,,VA,Stafford County,America/New_York,540,NA,US,38.47,-77.51,28160
+22601,STANDARD,0,Winchester,,,VA,Winchester city,America/New_York,540,NA,US,39.17,-78.17,24410
+22602,STANDARD,0,Winchester,,,VA,Frederick County,America/New_York,540,NA,US,39.14,-78.28,28510
+22630,STANDARD,0,Front Royal,"Lake Frederick, Lk Frederick, Riverton",,VA,Warren County,America/New_York,540,NA,US,38.92,-78.18,30220
+22655,STANDARD,0,Stephens City,,,VA,Frederick County,America/New_York,540,NA,US,39.09,-78.22,21240
+22701,STANDARD,0,Culpeper,"Raccoon Ford, Winston",Catalpa,VA,Culpeper County,America/New_York,540,NA,US,38.47,-78,33620
+22801,STANDARD,0,Harrisonburg,Rockingham,Harrisburg,VA,Harrisonburg city,America/New_York,540,NA,US,38.43,-78.87,28320
+22802,STANDARD,0,Harrisonburg,Rockingham,,VA,Harrisonburg city,America/New_York,540,NA,US,38.49,-78.86,23810
+22901,STANDARD,0,Charlottesville,Charlottesvle,Chville,VA,Albemarle County,America/New_York,434,NA,US,38.09,-78.56,32290
+22903,STANDARD,0,Charlottesville,"Charlottesvle, University",,VA,Charlottesville city,America/New_York,434,NA,US,38.01,-78.6,26250
+22980,STANDARD,0,Waynesboro,,Park,VA,Waynesboro city,America/New_York,540,NA,US,38.06,-78.9,29680
+23059,STANDARD,0,Glen Allen,,"Glenallen, Gln Alln",VA,Henrico County,America/New_York,804,NA,US,37.7,-77.57,39010
+23060,STANDARD,0,Glen Allen,,"Glen Allenw, Glenallen, Gln Alln",VA,Henrico County,America/New_York,804,NA,US,37.66,-77.48,36000
+23111,STANDARD,0,Mechanicsville,Mechanicsvlle,,VA,Hanover County,America/New_York,804,NA,US,37.62,-77.35,35450
+23112,STANDARD,0,Midlothian,,,VA,Chesterfield County,America/New_York,804,NA,US,37.43,-77.66,52470
+23113,STANDARD,0,Midlothian,,Sycamore Square,VA,Chesterfield County,America/New_York,804,NA,US,37.54,-77.68,26790
+23114,STANDARD,0,Midlothian,,,VA,Chesterfield County,America/New_York,804,NA,US,37.48,-77.65,20460
+23116,STANDARD,0,Mechanicsville,Mechanicsvlle,,VA,Hanover County,America/New_York,804,NA,US,37.68,-77.34,31790
+23139,STANDARD,0,Powhatan,Macon,"Powhatand, Powhatano",VA,Powhatan County,America/New_York,804,NA,US,37.54,-77.92,25800
+23185,STANDARD,0,Williamsburg,,"Wlmg, Wmsbg",VA,James City County,America/New_York,757,NA,US,37.27,-76.7,41710
+23188,STANDARD,0,Williamsburg,,Wlmg,VA,James City County,America/New_York,757,NA,US,37.35,-76.77,42790
+23222,STANDARD,0,Richmond,,,VA,Richmond city,America/New_York,804,NA,US,37.58,-77.42,20450
+23223,STANDARD,0,Richmond,,,VA,Henrico County,America/New_York,804,NA,US,37.56,-77.38,41740
+23224,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Richmond city,America/New_York,804,NA,US,37.5,-77.47,29370
+23225,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",Forest Hill,VA,Richmond city,America/New_York,804,NA,US,37.52,-77.51,32940
+23227,STANDARD,0,Richmond,,,VA,Henrico County,America/New_York,804,NA,US,37.61,-77.44,21100
+23228,STANDARD,0,Henrico,Richmond,Staples Mill,VA,Henrico County,America/New_York,804,NA,US,37.63,-77.49,30420
+23229,STANDARD,0,Henrico,"Regency, Richmond","Tuckahoe, Westbury",VA,Henrico County,America/New_York,804,NA,US,37.59,-77.57,31490
+23231,STANDARD,0,Henrico,Richmond,"Millers, Montrose, Montrose Heights, Varina",VA,Henrico County,America/New_York,804,NA,US,37.44,-77.32,33480
+23233,STANDARD,0,Henrico,"Richmond, Ridge",,VA,Henrico County,America/New_York,804,NA,US,37.65,-77.62,30710
+23234,STANDARD,0,Richmond,"Ampthill, N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.45,-77.47,39130
+23235,STANDARD,0,Richmond,"Bon Air, N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.51,-77.56,30870
+23236,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.48,-77.59,26340
+23237,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.4,-77.45,22270
+23238,STANDARD,0,Henrico,Richmond,,VA,Henrico County,America/New_York,804,NA,US,37.6,-77.65,23730
+23320,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.75,-76.22,53440
+23321,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.8,-76.42,35320
+23322,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.62,-76.23,62070
+23323,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.67,-76.3,39710
+23324,STANDARD,0,Chesapeake,South Norfolk,,VA,Chesapeake city,America/New_York,757,NA,US,36.8,-76.27,20140
+23434,STANDARD,0,Suffolk,,,VA,Suffolk city,America/New_York,757,NA,US,36.7,-76.63,44580
+23435,STANDARD,0,Suffolk,,Driver,VA,Suffolk city,America/New_York,757,NA,US,36.84,-76.48,30160
+23451,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.87,-76.01,37930
+23452,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.85,-76.09,52460
+23453,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.78,-76.08,32640
+23454,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.82,-76.03,52790
+23455,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.89,-76.15,43980
+23456,STANDARD,0,Virginia Beach,"Princess Anne, Va Bch, Va Beach, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.73,-76.04,56910
+23462,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.84,-76.15,57670
+23464,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.8,-76.19,68380
+23503,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.95,-76.27,25120
+23505,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.91,-76.29,22200
+23513,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.89,-76.24,24820
+23518,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.92,-76.22,26470
+23601,STANDARD,0,Newport News,,N N,VA,Newport News city,America/New_York,757,NA,US,37.04,-76.48,22170
+23602,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.11,-76.52,36710
+23606,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.07,-76.51,23290
+23608,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.15,-76.54,39110
+23666,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.06,-76.41,45340
+23669,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.05,-76.34,33680
+23693,STANDARD,0,Yorktown,Tabb,,VA,York County,America/New_York,757,NA,US,37.12,-76.45,22900
+23701,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.81,-76.37,20630
+23703,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.89,-76.37,23780
+23803,STANDARD,0,Petersburg,"N Dinwiddie, North Dinwiddie, S Chesterfld, South Chesterfield",Matoaca,VA,Petersburg city,America/New_York,804,NA,US,37.21,-77.5,32350
+23831,STANDARD,0,Chester,,,VA,Chesterfield County,America/New_York,804,NA,US,37.35,-77.43,33950
+23832,STANDARD,0,Chesterfield,,"Beach, Chesterfld",VA,Chesterfield County,America/New_York,804,NA,US,37.39,-77.59,37180
+23834,STANDARD,0,Colonial Heights,"Colonial Hgts, S Chesterfld, South Chesterfield",,VA,Colonial Heights city,America/New_York,,NA,US,37.26,-77.39,23710
+23860,STANDARD,0,Hopewell,"N Prince Geo, North Prince George",,VA,Hopewell city,America/New_York,804,NA,US,37.29,-77.29,24160
+24012,STANDARD,0,Roanoke,,Bonsack,VA,Roanoke city,America/New_York,540,NA,US,37.31,-79.9,24380
+24018,STANDARD,0,Roanoke,Cave Spring,Poages Mill,VA,Roanoke County,America/New_York,540,NA,US,37.21,-80.04,36160
+24019,STANDARD,0,Roanoke,"Hollins, Hollins Clg",,VA,Roanoke County,America/New_York,540,NA,US,37.35,-79.95,25310
+24060,STANDARD,0,Blacksburg,,,VA,Montgomery County,America/New_York,540,NA,US,37.23,-80.42,25490
+24073,STANDARD,0,Christiansburg,Christiansbrg,"Cambria, Christnsbrg, Prices Fork",VA,Montgomery County,America/New_York,540,NA,US,37.14,-80.4,26920
+24112,STANDARD,0,Martinsville,,,VA,Henry County,America/New_York,276,NA,US,36.68,-79.86,23530
+24153,STANDARD,0,Salem,,"Bennett Springs, Fort Lewis, Glenvar, Hanging Rock, Kesslers Mill, Mason Cove",VA,Salem city,America/New_York,540,NA,US,37.28,-80.05,32470
+24401,STANDARD,0,Staunton,,"Staunton Park, Western State Hospital",VA,Staunton city,America/New_York,540,NA,US,38.15,-79.06,31740
+24502,STANDARD,0,Lynchburg,Timberlake,Fort Hill,VA,Lynchburg city,America/New_York,434,NA,US,37.36,-79.22,32370
+24540,STANDARD,0,Danville,,,VA,Danville city,America/New_York,434,NA,US,36.63,-79.43,24820
+24541,STANDARD,0,Danville,,Schoolfield,VA,Danville city,America/New_York,434,NA,US,36.58,-79.4,20850
+24551,STANDARD,0,Forest,,,VA,Bedford County,America/New_York,,NA,US,37.37,-79.27,24160
+20105,STANDARD,0,Aldie,Stone Ridge,,VA,Loudoun County,America/New_York,"540,703,571",NA,US,38.97,-77.64,34630
+20109,STANDARD,0,Manassas,"Sudley Spgs, Sudley Springs",,VA,Prince William County,America/New_York,"571,703",NA,US,38.79,-77.53,38530
+20110,STANDARD,0,Manassas,,,VA,Manassas city,America/New_York,"571,703",NA,US,38.74,-77.48,43850
+20111,STANDARD,0,Manassas,Manassas Park,,VA,Prince William County,America/New_York,"571,703",NA,US,38.75,-77.43,36140
+20112,STANDARD,0,Manassas,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.66,-77.43,28520
+20120,STANDARD,0,Centreville,Sully Station,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.84,-77.44,40290
+20121,STANDARD,0,Centreville,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.81,-77.46,26260
+20136,STANDARD,0,Bristow,,,VA,Prince William County,America/New_York,571,NA,US,38.74,-77.55,30590
+20147,STANDARD,0,Ashburn,,,VA,Loudoun County,America/New_York,703,NA,US,39.04,-77.48,63200
+20148,STANDARD,0,Ashburn,"Brambleton, Broadlands",,VA,Loudoun County,America/New_York,"571,703",NA,US,39,-77.52,61230
+20151,STANDARD,0,Chantilly,Fairfax,,VA,Fairfax County,America/New_York,571,NA,US,38.9,-77.45,21910
+20152,STANDARD,0,Chantilly,"Fairfax, South Riding",,VA,Loudoun County,America/New_York,"571,703",NA,US,38.92,-77.5,36330
+20155,STANDARD,0,Gainesville,,,VA,Prince William County,America/New_York,571,NA,US,38.79,-77.61,35920
+20164,STANDARD,0,Sterling,,,VA,Loudoun County,America/New_York,703,NA,US,39,-77.4,38910
+20165,STANDARD,0,Sterling,Potomac Falls,,VA,Loudoun County,America/New_York,703,NA,US,39.06,-77.39,32710
+20169,STANDARD,0,Haymarket,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.88,-77.65,27880
+20170,STANDARD,0,Herndon,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.96,-77.38,40020
+20171,STANDARD,0,Herndon,Oak Hill,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.92,-77.4,49590
+20175,STANDARD,0,Leesburg,,,VA,Loudoun County,America/New_York,"571,703,540",NA,US,39.1,-77.55,31520
+20176,STANDARD,0,Leesburg,Lansdowne,Lucketts,VA,Loudoun County,America/New_York,"540,571,703",NA,US,39.18,-77.54,48900
+20191,STANDARD,0,Reston,Herndon,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.93,-77.35,27840
+22003,STANDARD,0,Annandale,,,VA,Fairfax County,America/New_York,703,NA,US,38.83,-77.21,52810
+22015,STANDARD,0,Burke,Springfield,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.27,41990
+22030,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,571,NA,US,38.84,-77.34,48270
+22031,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.85,-77.29,30390
+22032,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.82,-77.29,28520
+22033,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,703,NA,US,38.88,-77.38,36440
+22041,STANDARD,0,Falls Church,"Baileys Crossroads, Baileys Xrds",,VA,Fairfax County,America/New_York,703,NA,US,38.84,-77.14,23270
+22042,STANDARD,0,Falls Church,Mosby,,VA,Fairfax County,America/New_York,571,NA,US,38.87,-77.2,30860
+22043,STANDARD,0,Falls Church,Pimmit,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.9,-77.2,22680
+22079,STANDARD,0,Lorton,Mason Neck,,VA,Fairfax County,America/New_York,"703,571",NA,US,38.7,-77.24,33200
+22101,STANDARD,0,Mc Lean,Mclean,Maclean,VA,Fairfax County,America/New_York,"571,703",NA,US,38.94,-77.19,29780
+22102,STANDARD,0,Mc Lean,"Mclean, Tysons, Tysons Corner, West Mclean",Maclean,VA,Fairfax County,America/New_York,"703,571",NA,US,38.95,-77.23,24130
+22150,STANDARD,0,Springfield,,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.17,26310
+22152,STANDARD,0,Springfield,"W Springfield, West Springfield",,VA,Fairfax County,America/New_York,"571,703",NA,US,38.77,-77.23,28740
+22153,STANDARD,0,Springfield,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.74,-77.24,31860
+22180,STANDARD,0,Vienna,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.9,-77.26,24750
+22182,STANDARD,0,Vienna,"Tysons, Tysons Corner",,VA,Fairfax County,America/New_York,"571,703",NA,US,38.94,-77.27,26320
+22191,STANDARD,0,Woodbridge,,Wdbg,VA,Prince William County,America/New_York,"571,703",NA,US,38.63,-77.26,67700
+22192,STANDARD,0,Woodbridge,"Lake Ridge, Prince William, Prince Wm",,VA,Prince William County,America/New_York,"571,703",NA,US,38.68,-77.31,56480
+22193,STANDARD,0,Woodbridge,Dale City,Dalecity,VA,Prince William County,America/New_York,"571,703",NA,US,38.64,-77.35,80020
+22201,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"571,703",NA,US,38.89,-77.1,30200
+22202,STANDARD,0,Arlington,,Crystal City,VA,Arlington County,America/New_York,"571,703",NA,US,38.86,-77.05,20190
+22204,STANDARD,0,Arlington,,South,VA,Arlington County,America/New_York,"571,703",NA,US,38.87,-77.1,46120
+22207,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"703,571",NA,US,38.91,-77.12,31340
+22304,STANDARD,0,Alexandria,,"Cameron Station, Theological Seminary, Trade Center",VA,Alexandria city,America/New_York,"571,703",NA,US,38.81,-77.11,42250
+22306,STANDARD,0,Alexandria,Community,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.76,-77.1,29400
+22309,STANDARD,0,Alexandria,Engleside,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.72,-77.11,30880
+22310,STANDARD,0,Alexandria,Franconia,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.12,27670
+22312,STANDARD,0,Alexandria,Lincolnia,,VA,Fairfax County,America/New_York,703,NA,US,38.82,-77.15,27290
+22314,STANDARD,0,Alexandria,,,VA,Alexandria city,America/New_York,"571,703",NA,US,38.81,-77.06,30850
+22315,STANDARD,0,Alexandria,Kingstowne,,VA,Fairfax County,America/New_York,703,NA,US,38.76,-77.15,26710
+22401,STANDARD,0,Fredericksburg,Fredericksbrg,"Enon, Fred",VA,Fredericksburg city,America/New_York,540,NA,US,38.29,-77.48,21760
+22405,STANDARD,0,Fredericksburg,"Falmouth, Fredericksbrg","Fred, Fredericksbg",VA,Stafford County,America/New_York,540,NA,US,38.31,-77.4,32760
+22406,STANDARD,0,Fredericksburg,"Falmouth, Fredericksbrg","Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Stafford County,America/New_York,540,NA,US,38.4,-77.54,25390
+22407,STANDARD,0,Fredericksburg,Fredericksbrg,"Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Spotsylvania County,America/New_York,540,NA,US,38.28,-77.58,57920
+22408,STANDARD,0,Fredericksburg,Fredericksbrg,"Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Spotsylvania County,America/New_York,540,NA,US,38.22,-77.44,29380
+22485,STANDARD,0,King George,Shiloh,Owens,VA,King George County,America/New_York,540,NA,US,38.26,-77.18,23390
+22554,STANDARD,0,Stafford,,,VA,Stafford County,America/New_York,540,NA,US,38.42,-77.4,59850
+22556,STANDARD,0,Stafford,,,VA,Stafford County,America/New_York,540,NA,US,38.47,-77.51,28160
+22601,STANDARD,0,Winchester,,,VA,Winchester city,America/New_York,540,NA,US,39.17,-78.17,24410
+22602,STANDARD,0,Winchester,,,VA,Frederick County,America/New_York,540,NA,US,39.14,-78.28,28510
+22630,STANDARD,0,Front Royal,"Lake Frederick, Lk Frederick, Riverton",,VA,Warren County,America/New_York,540,NA,US,38.92,-78.18,30220
+22655,STANDARD,0,Stephens City,,,VA,Frederick County,America/New_York,540,NA,US,39.09,-78.22,21240
+22701,STANDARD,0,Culpeper,"Raccoon Ford, Winston",Catalpa,VA,Culpeper County,America/New_York,540,NA,US,38.47,-78,33620
+22801,STANDARD,0,Harrisonburg,Rockingham,Harrisburg,VA,Harrisonburg city,America/New_York,540,NA,US,38.43,-78.87,28320
+22802,STANDARD,0,Harrisonburg,Rockingham,,VA,Harrisonburg city,America/New_York,540,NA,US,38.49,-78.86,23810
+22901,STANDARD,0,Charlottesville,Charlottesvle,Chville,VA,Albemarle County,America/New_York,434,NA,US,38.09,-78.56,32290
+22903,STANDARD,0,Charlottesville,"Charlottesvle, University",,VA,Charlottesville city,America/New_York,434,NA,US,38.01,-78.6,26250
+22980,STANDARD,0,Waynesboro,,Park,VA,Waynesboro city,America/New_York,540,NA,US,38.06,-78.9,29680
+23059,STANDARD,0,Glen Allen,,"Glenallen, Gln Alln",VA,Henrico County,America/New_York,804,NA,US,37.7,-77.57,39010
+23060,STANDARD,0,Glen Allen,,"Glen Allenw, Glenallen, Gln Alln",VA,Henrico County,America/New_York,804,NA,US,37.66,-77.48,36000
+23111,STANDARD,0,Mechanicsville,Mechanicsvlle,,VA,Hanover County,America/New_York,804,NA,US,37.62,-77.35,35450
+23112,STANDARD,0,Midlothian,,,VA,Chesterfield County,America/New_York,804,NA,US,37.43,-77.66,52470
+23113,STANDARD,0,Midlothian,,Sycamore Square,VA,Chesterfield County,America/New_York,804,NA,US,37.54,-77.68,26790
+23114,STANDARD,0,Midlothian,,,VA,Chesterfield County,America/New_York,804,NA,US,37.48,-77.65,20460
+23116,STANDARD,0,Mechanicsville,Mechanicsvlle,,VA,Hanover County,America/New_York,804,NA,US,37.68,-77.34,31790
+23139,STANDARD,0,Powhatan,Macon,"Powhatand, Powhatano",VA,Powhatan County,America/New_York,804,NA,US,37.54,-77.92,25800
+23185,STANDARD,0,Williamsburg,,"Wlmg, Wmsbg",VA,James City County,America/New_York,757,NA,US,37.27,-76.7,41710
+23188,STANDARD,0,Williamsburg,,Wlmg,VA,James City County,America/New_York,757,NA,US,37.35,-76.77,42790
+23222,STANDARD,0,Richmond,,,VA,Richmond city,America/New_York,804,NA,US,37.58,-77.42,20450
+23223,STANDARD,0,Richmond,,,VA,Henrico County,America/New_York,804,NA,US,37.56,-77.38,41740
+23224,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Richmond city,America/New_York,804,NA,US,37.5,-77.47,29370
+23225,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",Forest Hill,VA,Richmond city,America/New_York,804,NA,US,37.52,-77.51,32940
+23227,STANDARD,0,Richmond,,,VA,Henrico County,America/New_York,804,NA,US,37.61,-77.44,21100
+23228,STANDARD,0,Henrico,Richmond,Staples Mill,VA,Henrico County,America/New_York,804,NA,US,37.63,-77.49,30420
+23229,STANDARD,0,Henrico,"Regency, Richmond","Tuckahoe, Westbury",VA,Henrico County,America/New_York,804,NA,US,37.59,-77.57,31490
+23231,STANDARD,0,Henrico,Richmond,"Millers, Montrose, Montrose Heights, Varina",VA,Henrico County,America/New_York,804,NA,US,37.44,-77.32,33480
+23233,STANDARD,0,Henrico,"Richmond, Ridge",,VA,Henrico County,America/New_York,804,NA,US,37.65,-77.62,30710
+23234,STANDARD,0,Richmond,"Ampthill, N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.45,-77.47,39130
+23235,STANDARD,0,Richmond,"Bon Air, N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.51,-77.56,30870
+23236,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.48,-77.59,26340
+23237,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.4,-77.45,22270
+23238,STANDARD,0,Henrico,Richmond,,VA,Henrico County,America/New_York,804,NA,US,37.6,-77.65,23730
+23320,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.75,-76.22,53440
+23321,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.8,-76.42,35320
+23322,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.62,-76.23,62070
+23323,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.67,-76.3,39710
+23324,STANDARD,0,Chesapeake,South Norfolk,,VA,Chesapeake city,America/New_York,757,NA,US,36.8,-76.27,20140
+23434,STANDARD,0,Suffolk,,,VA,Suffolk city,America/New_York,757,NA,US,36.7,-76.63,44580
+23435,STANDARD,0,Suffolk,,Driver,VA,Suffolk city,America/New_York,757,NA,US,36.84,-76.48,30160
+23451,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.87,-76.01,37930
+23452,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.85,-76.09,52460
+23453,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.78,-76.08,32640
+23454,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.82,-76.03,52790
+23455,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.89,-76.15,43980
+23456,STANDARD,0,Virginia Beach,"Princess Anne, Va Bch, Va Beach, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.73,-76.04,56910
+23462,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.84,-76.15,57670
+23464,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.8,-76.19,68380
+23503,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.95,-76.27,25120
+23505,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.91,-76.29,22200
+23513,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.89,-76.24,24820
+23518,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.92,-76.22,26470
+23601,STANDARD,0,Newport News,,N N,VA,Newport News city,America/New_York,757,NA,US,37.04,-76.48,22170
+23602,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.11,-76.52,36710
+23606,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.07,-76.51,23290
+23608,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.15,-76.54,39110
+23666,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.06,-76.41,45340
+23669,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.05,-76.34,33680
+23693,STANDARD,0,Yorktown,Tabb,,VA,York County,America/New_York,757,NA,US,37.12,-76.45,22900
+23701,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.81,-76.37,20630
+23703,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.89,-76.37,23780
+23803,STANDARD,0,Petersburg,"N Dinwiddie, North Dinwiddie, S Chesterfld, South Chesterfield",Matoaca,VA,Petersburg city,America/New_York,804,NA,US,37.21,-77.5,32350
+23831,STANDARD,0,Chester,,,VA,Chesterfield County,America/New_York,804,NA,US,37.35,-77.43,33950
+23832,STANDARD,0,Chesterfield,,"Beach, Chesterfld",VA,Chesterfield County,America/New_York,804,NA,US,37.39,-77.59,37180
+23834,STANDARD,0,Colonial Heights,"Colonial Hgts, S Chesterfld, South Chesterfield",,VA,Colonial Heights city,America/New_York,,NA,US,37.26,-77.39,23710
+23860,STANDARD,0,Hopewell,"N Prince Geo, North Prince George",,VA,Hopewell city,America/New_York,804,NA,US,37.29,-77.29,24160
+24012,STANDARD,0,Roanoke,,Bonsack,VA,Roanoke city,America/New_York,540,NA,US,37.31,-79.9,24380
+24018,STANDARD,0,Roanoke,Cave Spring,Poages Mill,VA,Roanoke County,America/New_York,540,NA,US,37.21,-80.04,36160
+24019,STANDARD,0,Roanoke,"Hollins, Hollins Clg",,VA,Roanoke County,America/New_York,540,NA,US,37.35,-79.95,25310
+24060,STANDARD,0,Blacksburg,,,VA,Montgomery County,America/New_York,540,NA,US,37.23,-80.42,25490
+24073,STANDARD,0,Christiansburg,Christiansbrg,"Cambria, Christnsbrg, Prices Fork",VA,Montgomery County,America/New_York,540,NA,US,37.14,-80.4,26920
+24112,STANDARD,0,Martinsville,,,VA,Henry County,America/New_York,276,NA,US,36.68,-79.86,23530
+24153,STANDARD,0,Salem,,"Bennett Springs, Fort Lewis, Glenvar, Hanging Rock, Kesslers Mill, Mason Cove",VA,Salem city,America/New_York,540,NA,US,37.28,-80.05,32470
+24401,STANDARD,0,Staunton,,"Staunton Park, Western State Hospital",VA,Staunton city,America/New_York,540,NA,US,38.15,-79.06,31740
+24502,STANDARD,0,Lynchburg,Timberlake,Fort Hill,VA,Lynchburg city,America/New_York,434,NA,US,37.36,-79.22,32370
+24540,STANDARD,0,Danville,,,VA,Danville city,America/New_York,434,NA,US,36.63,-79.43,24820
+24541,STANDARD,0,Danville,,Schoolfield,VA,Danville city,America/New_York,434,NA,US,36.58,-79.4,20850
+24551,STANDARD,0,Forest,,,VA,Bedford County,America/New_York,,NA,US,37.37,-79.27,24160
+20105,STANDARD,0,Aldie,Stone Ridge,,VA,Loudoun County,America/New_York,"540,703,571",NA,US,38.97,-77.64,34630
+20109,STANDARD,0,Manassas,"Sudley Spgs, Sudley Springs",,VA,Prince William County,America/New_York,"571,703",NA,US,38.79,-77.53,38530
+20110,STANDARD,0,Manassas,,,VA,Manassas city,America/New_York,"571,703",NA,US,38.74,-77.48,43850
+20111,STANDARD,0,Manassas,Manassas Park,,VA,Prince William County,America/New_York,"571,703",NA,US,38.75,-77.43,36140
+20112,STANDARD,0,Manassas,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.66,-77.43,28520
+20120,STANDARD,0,Centreville,Sully Station,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.84,-77.44,40290
+20121,STANDARD,0,Centreville,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.81,-77.46,26260
+20136,STANDARD,0,Bristow,,,VA,Prince William County,America/New_York,571,NA,US,38.74,-77.55,30590
+20147,STANDARD,0,Ashburn,,,VA,Loudoun County,America/New_York,703,NA,US,39.04,-77.48,63200
+20148,STANDARD,0,Ashburn,"Brambleton, Broadlands",,VA,Loudoun County,America/New_York,"571,703",NA,US,39,-77.52,61230
+20151,STANDARD,0,Chantilly,Fairfax,,VA,Fairfax County,America/New_York,571,NA,US,38.9,-77.45,21910
+20152,STANDARD,0,Chantilly,"Fairfax, South Riding",,VA,Loudoun County,America/New_York,"571,703",NA,US,38.92,-77.5,36330
+20155,STANDARD,0,Gainesville,,,VA,Prince William County,America/New_York,571,NA,US,38.79,-77.61,35920
+20164,STANDARD,0,Sterling,,,VA,Loudoun County,America/New_York,703,NA,US,39,-77.4,38910
+20165,STANDARD,0,Sterling,Potomac Falls,,VA,Loudoun County,America/New_York,703,NA,US,39.06,-77.39,32710
+20169,STANDARD,0,Haymarket,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.88,-77.65,27880
+20170,STANDARD,0,Herndon,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.96,-77.38,40020
+20171,STANDARD,0,Herndon,Oak Hill,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.92,-77.4,49590
+20175,STANDARD,0,Leesburg,,,VA,Loudoun County,America/New_York,"571,703,540",NA,US,39.1,-77.55,31520
+20176,STANDARD,0,Leesburg,Lansdowne,Lucketts,VA,Loudoun County,America/New_York,"540,571,703",NA,US,39.18,-77.54,48900
+20191,STANDARD,0,Reston,Herndon,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.93,-77.35,27840
+22003,STANDARD,0,Annandale,,,VA,Fairfax County,America/New_York,703,NA,US,38.83,-77.21,52810
+22015,STANDARD,0,Burke,Springfield,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.27,41990
+22030,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,571,NA,US,38.84,-77.34,48270
+22031,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.85,-77.29,30390
+22032,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.82,-77.29,28520
+22033,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,703,NA,US,38.88,-77.38,36440
+22041,STANDARD,0,Falls Church,"Baileys Crossroads, Baileys Xrds",,VA,Fairfax County,America/New_York,703,NA,US,38.84,-77.14,23270
+22042,STANDARD,0,Falls Church,Mosby,,VA,Fairfax County,America/New_York,571,NA,US,38.87,-77.2,30860
+22043,STANDARD,0,Falls Church,Pimmit,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.9,-77.2,22680
+22079,STANDARD,0,Lorton,Mason Neck,,VA,Fairfax County,America/New_York,"703,571",NA,US,38.7,-77.24,33200
+22101,STANDARD,0,Mc Lean,Mclean,Maclean,VA,Fairfax County,America/New_York,"571,703",NA,US,38.94,-77.19,29780
+22102,STANDARD,0,Mc Lean,"Mclean, Tysons, Tysons Corner, West Mclean",Maclean,VA,Fairfax County,America/New_York,"703,571",NA,US,38.95,-77.23,24130
+22150,STANDARD,0,Springfield,,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.17,26310
+22152,STANDARD,0,Springfield,"W Springfield, West Springfield",,VA,Fairfax County,America/New_York,"571,703",NA,US,38.77,-77.23,28740
+22153,STANDARD,0,Springfield,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.74,-77.24,31860
+22180,STANDARD,0,Vienna,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.9,-77.26,24750
+22182,STANDARD,0,Vienna,"Tysons, Tysons Corner",,VA,Fairfax County,America/New_York,"571,703",NA,US,38.94,-77.27,26320
+22191,STANDARD,0,Woodbridge,,Wdbg,VA,Prince William County,America/New_York,"571,703",NA,US,38.63,-77.26,67700
+22192,STANDARD,0,Woodbridge,"Lake Ridge, Prince William, Prince Wm",,VA,Prince William County,America/New_York,"571,703",NA,US,38.68,-77.31,56480
+22193,STANDARD,0,Woodbridge,Dale City,Dalecity,VA,Prince William County,America/New_York,"571,703",NA,US,38.64,-77.35,80020
+22201,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"571,703",NA,US,38.89,-77.1,30200
+22202,STANDARD,0,Arlington,,Crystal City,VA,Arlington County,America/New_York,"571,703",NA,US,38.86,-77.05,20190
+22204,STANDARD,0,Arlington,,South,VA,Arlington County,America/New_York,"571,703",NA,US,38.87,-77.1,46120
+22207,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"703,571",NA,US,38.91,-77.12,31340
+22304,STANDARD,0,Alexandria,,"Cameron Station, Theological Seminary, Trade Center",VA,Alexandria city,America/New_York,"571,703",NA,US,38.81,-77.11,42250
+22306,STANDARD,0,Alexandria,Community,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.76,-77.1,29400
+22309,STANDARD,0,Alexandria,Engleside,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.72,-77.11,30880
+22310,STANDARD,0,Alexandria,Franconia,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.12,27670
+22312,STANDARD,0,Alexandria,Lincolnia,,VA,Fairfax County,America/New_York,703,NA,US,38.82,-77.15,27290
+22314,STANDARD,0,Alexandria,,,VA,Alexandria city,America/New_York,"571,703",NA,US,38.81,-77.06,30850
+22315,STANDARD,0,Alexandria,Kingstowne,,VA,Fairfax County,America/New_York,703,NA,US,38.76,-77.15,26710
+22401,STANDARD,0,Fredericksburg,Fredericksbrg,"Enon, Fred",VA,Fredericksburg city,America/New_York,540,NA,US,38.29,-77.48,21760
+22405,STANDARD,0,Fredericksburg,"Falmouth, Fredericksbrg","Fred, Fredericksbg",VA,Stafford County,America/New_York,540,NA,US,38.31,-77.4,32760
+22406,STANDARD,0,Fredericksburg,"Falmouth, Fredericksbrg","Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Stafford County,America/New_York,540,NA,US,38.4,-77.54,25390
+22407,STANDARD,0,Fredericksburg,Fredericksbrg,"Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Spotsylvania County,America/New_York,540,NA,US,38.28,-77.58,57920
+22408,STANDARD,0,Fredericksburg,Fredericksbrg,"Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Spotsylvania County,America/New_York,540,NA,US,38.22,-77.44,29380
+22485,STANDARD,0,King George,Shiloh,Owens,VA,King George County,America/New_York,540,NA,US,38.26,-77.18,23390
+22554,STANDARD,0,Stafford,,,VA,Stafford County,America/New_York,540,NA,US,38.42,-77.4,59850
+22556,STANDARD,0,Stafford,,,VA,Stafford County,America/New_York,540,NA,US,38.47,-77.51,28160
+22601,STANDARD,0,Winchester,,,VA,Winchester city,America/New_York,540,NA,US,39.17,-78.17,24410
+22602,STANDARD,0,Winchester,,,VA,Frederick County,America/New_York,540,NA,US,39.14,-78.28,28510
+22630,STANDARD,0,Front Royal,"Lake Frederick, Lk Frederick, Riverton",,VA,Warren County,America/New_York,540,NA,US,38.92,-78.18,30220
+22655,STANDARD,0,Stephens City,,,VA,Frederick County,America/New_York,540,NA,US,39.09,-78.22,21240
+22701,STANDARD,0,Culpeper,"Raccoon Ford, Winston",Catalpa,VA,Culpeper County,America/New_York,540,NA,US,38.47,-78,33620
+22801,STANDARD,0,Harrisonburg,Rockingham,Harrisburg,VA,Harrisonburg city,America/New_York,540,NA,US,38.43,-78.87,28320
+22802,STANDARD,0,Harrisonburg,Rockingham,,VA,Harrisonburg city,America/New_York,540,NA,US,38.49,-78.86,23810
+22901,STANDARD,0,Charlottesville,Charlottesvle,Chville,VA,Albemarle County,America/New_York,434,NA,US,38.09,-78.56,32290
+22903,STANDARD,0,Charlottesville,"Charlottesvle, University",,VA,Charlottesville city,America/New_York,434,NA,US,38.01,-78.6,26250
+22980,STANDARD,0,Waynesboro,,Park,VA,Waynesboro city,America/New_York,540,NA,US,38.06,-78.9,29680
+23059,STANDARD,0,Glen Allen,,"Glenallen, Gln Alln",VA,Henrico County,America/New_York,804,NA,US,37.7,-77.57,39010
+23060,STANDARD,0,Glen Allen,,"Glen Allenw, Glenallen, Gln Alln",VA,Henrico County,America/New_York,804,NA,US,37.66,-77.48,36000
+23111,STANDARD,0,Mechanicsville,Mechanicsvlle,,VA,Hanover County,America/New_York,804,NA,US,37.62,-77.35,35450
+23112,STANDARD,0,Midlothian,,,VA,Chesterfield County,America/New_York,804,NA,US,37.43,-77.66,52470
+23113,STANDARD,0,Midlothian,,Sycamore Square,VA,Chesterfield County,America/New_York,804,NA,US,37.54,-77.68,26790
+23114,STANDARD,0,Midlothian,,,VA,Chesterfield County,America/New_York,804,NA,US,37.48,-77.65,20460
+23116,STANDARD,0,Mechanicsville,Mechanicsvlle,,VA,Hanover County,America/New_York,804,NA,US,37.68,-77.34,31790
+23139,STANDARD,0,Powhatan,Macon,"Powhatand, Powhatano",VA,Powhatan County,America/New_York,804,NA,US,37.54,-77.92,25800
+23185,STANDARD,0,Williamsburg,,"Wlmg, Wmsbg",VA,James City County,America/New_York,757,NA,US,37.27,-76.7,41710
+23188,STANDARD,0,Williamsburg,,Wlmg,VA,James City County,America/New_York,757,NA,US,37.35,-76.77,42790
+23222,STANDARD,0,Richmond,,,VA,Richmond city,America/New_York,804,NA,US,37.58,-77.42,20450
+23223,STANDARD,0,Richmond,,,VA,Henrico County,America/New_York,804,NA,US,37.56,-77.38,41740
+23224,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Richmond city,America/New_York,804,NA,US,37.5,-77.47,29370
+23225,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",Forest Hill,VA,Richmond city,America/New_York,804,NA,US,37.52,-77.51,32940
+23227,STANDARD,0,Richmond,,,VA,Henrico County,America/New_York,804,NA,US,37.61,-77.44,21100
+23228,STANDARD,0,Henrico,Richmond,Staples Mill,VA,Henrico County,America/New_York,804,NA,US,37.63,-77.49,30420
+23229,STANDARD,0,Henrico,"Regency, Richmond","Tuckahoe, Westbury",VA,Henrico County,America/New_York,804,NA,US,37.59,-77.57,31490
+23231,STANDARD,0,Henrico,Richmond,"Millers, Montrose, Montrose Heights, Varina",VA,Henrico County,America/New_York,804,NA,US,37.44,-77.32,33480
+23233,STANDARD,0,Henrico,"Richmond, Ridge",,VA,Henrico County,America/New_York,804,NA,US,37.65,-77.62,30710
+23234,STANDARD,0,Richmond,"Ampthill, N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.45,-77.47,39130
+23235,STANDARD,0,Richmond,"Bon Air, N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.51,-77.56,30870
+23236,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.48,-77.59,26340
+23237,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.4,-77.45,22270
+23238,STANDARD,0,Henrico,Richmond,,VA,Henrico County,America/New_York,804,NA,US,37.6,-77.65,23730
+23320,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.75,-76.22,53440
+23321,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.8,-76.42,35320
+23322,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.62,-76.23,62070
+23323,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.67,-76.3,39710
+23324,STANDARD,0,Chesapeake,South Norfolk,,VA,Chesapeake city,America/New_York,757,NA,US,36.8,-76.27,20140
+23434,STANDARD,0,Suffolk,,,VA,Suffolk city,America/New_York,757,NA,US,36.7,-76.63,44580
+23435,STANDARD,0,Suffolk,,Driver,VA,Suffolk city,America/New_York,757,NA,US,36.84,-76.48,30160
+23451,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.87,-76.01,37930
+23452,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.85,-76.09,52460
+23453,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.78,-76.08,32640
+23454,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.82,-76.03,52790
+23455,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.89,-76.15,43980
+23456,STANDARD,0,Virginia Beach,"Princess Anne, Va Bch, Va Beach, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.73,-76.04,56910
+23462,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.84,-76.15,57670
+23464,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.8,-76.19,68380
+23503,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.95,-76.27,25120
+23505,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.91,-76.29,22200
+23513,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.89,-76.24,24820
+23518,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.92,-76.22,26470
+23601,STANDARD,0,Newport News,,N N,VA,Newport News city,America/New_York,757,NA,US,37.04,-76.48,22170
+23602,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.11,-76.52,36710
+23606,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.07,-76.51,23290
+23608,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.15,-76.54,39110
+23666,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.06,-76.41,45340
+23669,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.05,-76.34,33680
+23693,STANDARD,0,Yorktown,Tabb,,VA,York County,America/New_York,757,NA,US,37.12,-76.45,22900
+23701,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.81,-76.37,20630
+23703,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.89,-76.37,23780
+23803,STANDARD,0,Petersburg,"N Dinwiddie, North Dinwiddie, S Chesterfld, South Chesterfield",Matoaca,VA,Petersburg city,America/New_York,804,NA,US,37.21,-77.5,32350
+23831,STANDARD,0,Chester,,,VA,Chesterfield County,America/New_York,804,NA,US,37.35,-77.43,33950
+23832,STANDARD,0,Chesterfield,,"Beach, Chesterfld",VA,Chesterfield County,America/New_York,804,NA,US,37.39,-77.59,37180
+23834,STANDARD,0,Colonial Heights,"Colonial Hgts, S Chesterfld, South Chesterfield",,VA,Colonial Heights city,America/New_York,,NA,US,37.26,-77.39,23710
+23860,STANDARD,0,Hopewell,"N Prince Geo, North Prince George",,VA,Hopewell city,America/New_York,804,NA,US,37.29,-77.29,24160
+24012,STANDARD,0,Roanoke,,Bonsack,VA,Roanoke city,America/New_York,540,NA,US,37.31,-79.9,24380
+24018,STANDARD,0,Roanoke,Cave Spring,Poages Mill,VA,Roanoke County,America/New_York,540,NA,US,37.21,-80.04,36160
+24019,STANDARD,0,Roanoke,"Hollins, Hollins Clg",,VA,Roanoke County,America/New_York,540,NA,US,37.35,-79.95,25310
+24060,STANDARD,0,Blacksburg,,,VA,Montgomery County,America/New_York,540,NA,US,37.23,-80.42,25490
+24073,STANDARD,0,Christiansburg,Christiansbrg,"Cambria, Christnsbrg, Prices Fork",VA,Montgomery County,America/New_York,540,NA,US,37.14,-80.4,26920
+24112,STANDARD,0,Martinsville,,,VA,Henry County,America/New_York,276,NA,US,36.68,-79.86,23530
+24153,STANDARD,0,Salem,,"Bennett Springs, Fort Lewis, Glenvar, Hanging Rock, Kesslers Mill, Mason Cove",VA,Salem city,America/New_York,540,NA,US,37.28,-80.05,32470
+24401,STANDARD,0,Staunton,,"Staunton Park, Western State Hospital",VA,Staunton city,America/New_York,540,NA,US,38.15,-79.06,31740
+24502,STANDARD,0,Lynchburg,Timberlake,Fort Hill,VA,Lynchburg city,America/New_York,434,NA,US,37.36,-79.22,32370
+24540,STANDARD,0,Danville,,,VA,Danville city,America/New_York,434,NA,US,36.63,-79.43,24820
+24541,STANDARD,0,Danville,,Schoolfield,VA,Danville city,America/New_York,434,NA,US,36.58,-79.4,20850
+24551,STANDARD,0,Forest,,,VA,Bedford County,America/New_York,,NA,US,37.37,-79.27,24160
+20105,STANDARD,0,Aldie,Stone Ridge,,VA,Loudoun County,America/New_York,"540,703,571",NA,US,38.97,-77.64,34630
+20109,STANDARD,0,Manassas,"Sudley Spgs, Sudley Springs",,VA,Prince William County,America/New_York,"571,703",NA,US,38.79,-77.53,38530
+20110,STANDARD,0,Manassas,,,VA,Manassas city,America/New_York,"571,703",NA,US,38.74,-77.48,43850
+20111,STANDARD,0,Manassas,Manassas Park,,VA,Prince William County,America/New_York,"571,703",NA,US,38.75,-77.43,36140
+20112,STANDARD,0,Manassas,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.66,-77.43,28520
+20120,STANDARD,0,Centreville,Sully Station,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.84,-77.44,40290
+20121,STANDARD,0,Centreville,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.81,-77.46,26260
+20136,STANDARD,0,Bristow,,,VA,Prince William County,America/New_York,571,NA,US,38.74,-77.55,30590
+20147,STANDARD,0,Ashburn,,,VA,Loudoun County,America/New_York,703,NA,US,39.04,-77.48,63200
+20148,STANDARD,0,Ashburn,"Brambleton, Broadlands",,VA,Loudoun County,America/New_York,"571,703",NA,US,39,-77.52,61230
+20151,STANDARD,0,Chantilly,Fairfax,,VA,Fairfax County,America/New_York,571,NA,US,38.9,-77.45,21910
+20152,STANDARD,0,Chantilly,"Fairfax, South Riding",,VA,Loudoun County,America/New_York,"571,703",NA,US,38.92,-77.5,36330
+20155,STANDARD,0,Gainesville,,,VA,Prince William County,America/New_York,571,NA,US,38.79,-77.61,35920
+20164,STANDARD,0,Sterling,,,VA,Loudoun County,America/New_York,703,NA,US,39,-77.4,38910
+20165,STANDARD,0,Sterling,Potomac Falls,,VA,Loudoun County,America/New_York,703,NA,US,39.06,-77.39,32710
+20169,STANDARD,0,Haymarket,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.88,-77.65,27880
+20170,STANDARD,0,Herndon,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.96,-77.38,40020
+20171,STANDARD,0,Herndon,Oak Hill,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.92,-77.4,49590
+20175,STANDARD,0,Leesburg,,,VA,Loudoun County,America/New_York,"571,703,540",NA,US,39.1,-77.55,31520
+20176,STANDARD,0,Leesburg,Lansdowne,Lucketts,VA,Loudoun County,America/New_York,"540,571,703",NA,US,39.18,-77.54,48900
+20191,STANDARD,0,Reston,Herndon,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.93,-77.35,27840
+22003,STANDARD,0,Annandale,,,VA,Fairfax County,America/New_York,703,NA,US,38.83,-77.21,52810
+22015,STANDARD,0,Burke,Springfield,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.27,41990
+22030,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,571,NA,US,38.84,-77.34,48270
+22031,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.85,-77.29,30390
+22032,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.82,-77.29,28520
+22033,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,703,NA,US,38.88,-77.38,36440
+22041,STANDARD,0,Falls Church,"Baileys Crossroads, Baileys Xrds",,VA,Fairfax County,America/New_York,703,NA,US,38.84,-77.14,23270
+22042,STANDARD,0,Falls Church,Mosby,,VA,Fairfax County,America/New_York,571,NA,US,38.87,-77.2,30860
+22043,STANDARD,0,Falls Church,Pimmit,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.9,-77.2,22680
+22079,STANDARD,0,Lorton,Mason Neck,,VA,Fairfax County,America/New_York,"703,571",NA,US,38.7,-77.24,33200
+22101,STANDARD,0,Mc Lean,Mclean,Maclean,VA,Fairfax County,America/New_York,"571,703",NA,US,38.94,-77.19,29780
+22102,STANDARD,0,Mc Lean,"Mclean, Tysons, Tysons Corner, West Mclean",Maclean,VA,Fairfax County,America/New_York,"703,571",NA,US,38.95,-77.23,24130
+22150,STANDARD,0,Springfield,,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.17,26310
+22152,STANDARD,0,Springfield,"W Springfield, West Springfield",,VA,Fairfax County,America/New_York,"571,703",NA,US,38.77,-77.23,28740
+22153,STANDARD,0,Springfield,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.74,-77.24,31860
+22180,STANDARD,0,Vienna,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.9,-77.26,24750
+22182,STANDARD,0,Vienna,"Tysons, Tysons Corner",,VA,Fairfax County,America/New_York,"571,703",NA,US,38.94,-77.27,26320
+22191,STANDARD,0,Woodbridge,,Wdbg,VA,Prince William County,America/New_York,"571,703",NA,US,38.63,-77.26,67700
+22192,STANDARD,0,Woodbridge,"Lake Ridge, Prince William, Prince Wm",,VA,Prince William County,America/New_York,"571,703",NA,US,38.68,-77.31,56480
+22193,STANDARD,0,Woodbridge,Dale City,Dalecity,VA,Prince William County,America/New_York,"571,703",NA,US,38.64,-77.35,80020
+22201,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"571,703",NA,US,38.89,-77.1,30200
+22202,STANDARD,0,Arlington,,Crystal City,VA,Arlington County,America/New_York,"571,703",NA,US,38.86,-77.05,20190
+22204,STANDARD,0,Arlington,,South,VA,Arlington County,America/New_York,"571,703",NA,US,38.87,-77.1,46120
+22207,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"703,571",NA,US,38.91,-77.12,31340
+22304,STANDARD,0,Alexandria,,"Cameron Station, Theological Seminary, Trade Center",VA,Alexandria city,America/New_York,"571,703",NA,US,38.81,-77.11,42250
+22306,STANDARD,0,Alexandria,Community,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.76,-77.1,29400
+22309,STANDARD,0,Alexandria,Engleside,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.72,-77.11,30880
+22310,STANDARD,0,Alexandria,Franconia,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.12,27670
+22312,STANDARD,0,Alexandria,Lincolnia,,VA,Fairfax County,America/New_York,703,NA,US,38.82,-77.15,27290
+22314,STANDARD,0,Alexandria,,,VA,Alexandria city,America/New_York,"571,703",NA,US,38.81,-77.06,30850
+22315,STANDARD,0,Alexandria,Kingstowne,,VA,Fairfax County,America/New_York,703,NA,US,38.76,-77.15,26710
+22401,STANDARD,0,Fredericksburg,Fredericksbrg,"Enon, Fred",VA,Fredericksburg city,America/New_York,540,NA,US,38.29,-77.48,21760
+22405,STANDARD,0,Fredericksburg,"Falmouth, Fredericksbrg","Fred, Fredericksbg",VA,Stafford County,America/New_York,540,NA,US,38.31,-77.4,32760
+22406,STANDARD,0,Fredericksburg,"Falmouth, Fredericksbrg","Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Stafford County,America/New_York,540,NA,US,38.4,-77.54,25390
+22407,STANDARD,0,Fredericksburg,Fredericksbrg,"Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Spotsylvania County,America/New_York,540,NA,US,38.28,-77.58,57920
+22408,STANDARD,0,Fredericksburg,Fredericksbrg,"Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Spotsylvania County,America/New_York,540,NA,US,38.22,-77.44,29380
+22485,STANDARD,0,King George,Shiloh,Owens,VA,King George County,America/New_York,540,NA,US,38.26,-77.18,23390
+22554,STANDARD,0,Stafford,,,VA,Stafford County,America/New_York,540,NA,US,38.42,-77.4,59850
+22556,STANDARD,0,Stafford,,,VA,Stafford County,America/New_York,540,NA,US,38.47,-77.51,28160
+22601,STANDARD,0,Winchester,,,VA,Winchester city,America/New_York,540,NA,US,39.17,-78.17,24410
+22602,STANDARD,0,Winchester,,,VA,Frederick County,America/New_York,540,NA,US,39.14,-78.28,28510
+22630,STANDARD,0,Front Royal,"Lake Frederick, Lk Frederick, Riverton",,VA,Warren County,America/New_York,540,NA,US,38.92,-78.18,30220
+22655,STANDARD,0,Stephens City,,,VA,Frederick County,America/New_York,540,NA,US,39.09,-78.22,21240
+22701,STANDARD,0,Culpeper,"Raccoon Ford, Winston",Catalpa,VA,Culpeper County,America/New_York,540,NA,US,38.47,-78,33620
+22801,STANDARD,0,Harrisonburg,Rockingham,Harrisburg,VA,Harrisonburg city,America/New_York,540,NA,US,38.43,-78.87,28320
+22802,STANDARD,0,Harrisonburg,Rockingham,,VA,Harrisonburg city,America/New_York,540,NA,US,38.49,-78.86,23810
+22901,STANDARD,0,Charlottesville,Charlottesvle,Chville,VA,Albemarle County,America/New_York,434,NA,US,38.09,-78.56,32290
+22903,STANDARD,0,Charlottesville,"Charlottesvle, University",,VA,Charlottesville city,America/New_York,434,NA,US,38.01,-78.6,26250
+22980,STANDARD,0,Waynesboro,,Park,VA,Waynesboro city,America/New_York,540,NA,US,38.06,-78.9,29680
+23059,STANDARD,0,Glen Allen,,"Glenallen, Gln Alln",VA,Henrico County,America/New_York,804,NA,US,37.7,-77.57,39010
+23060,STANDARD,0,Glen Allen,,"Glen Allenw, Glenallen, Gln Alln",VA,Henrico County,America/New_York,804,NA,US,37.66,-77.48,36000
+23111,STANDARD,0,Mechanicsville,Mechanicsvlle,,VA,Hanover County,America/New_York,804,NA,US,37.62,-77.35,35450
+23112,STANDARD,0,Midlothian,,,VA,Chesterfield County,America/New_York,804,NA,US,37.43,-77.66,52470
+23113,STANDARD,0,Midlothian,,Sycamore Square,VA,Chesterfield County,America/New_York,804,NA,US,37.54,-77.68,26790
+23114,STANDARD,0,Midlothian,,,VA,Chesterfield County,America/New_York,804,NA,US,37.48,-77.65,20460
+23116,STANDARD,0,Mechanicsville,Mechanicsvlle,,VA,Hanover County,America/New_York,804,NA,US,37.68,-77.34,31790
+23139,STANDARD,0,Powhatan,Macon,"Powhatand, Powhatano",VA,Powhatan County,America/New_York,804,NA,US,37.54,-77.92,25800
+23185,STANDARD,0,Williamsburg,,"Wlmg, Wmsbg",VA,James City County,America/New_York,757,NA,US,37.27,-76.7,41710
+23188,STANDARD,0,Williamsburg,,Wlmg,VA,James City County,America/New_York,757,NA,US,37.35,-76.77,42790
+23222,STANDARD,0,Richmond,,,VA,Richmond city,America/New_York,804,NA,US,37.58,-77.42,20450
+23223,STANDARD,0,Richmond,,,VA,Henrico County,America/New_York,804,NA,US,37.56,-77.38,41740
+23224,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Richmond city,America/New_York,804,NA,US,37.5,-77.47,29370
+23225,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",Forest Hill,VA,Richmond city,America/New_York,804,NA,US,37.52,-77.51,32940
+23227,STANDARD,0,Richmond,,,VA,Henrico County,America/New_York,804,NA,US,37.61,-77.44,21100
+23228,STANDARD,0,Henrico,Richmond,Staples Mill,VA,Henrico County,America/New_York,804,NA,US,37.63,-77.49,30420
+23229,STANDARD,0,Henrico,"Regency, Richmond","Tuckahoe, Westbury",VA,Henrico County,America/New_York,804,NA,US,37.59,-77.57,31490
+23231,STANDARD,0,Henrico,Richmond,"Millers, Montrose, Montrose Heights, Varina",VA,Henrico County,America/New_York,804,NA,US,37.44,-77.32,33480
+23233,STANDARD,0,Henrico,"Richmond, Ridge",,VA,Henrico County,America/New_York,804,NA,US,37.65,-77.62,30710
+23234,STANDARD,0,Richmond,"Ampthill, N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.45,-77.47,39130
+23235,STANDARD,0,Richmond,"Bon Air, N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.51,-77.56,30870
+23236,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.48,-77.59,26340
+23237,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.4,-77.45,22270
+23238,STANDARD,0,Henrico,Richmond,,VA,Henrico County,America/New_York,804,NA,US,37.6,-77.65,23730
+23320,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.75,-76.22,53440
+23321,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.8,-76.42,35320
+23322,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.62,-76.23,62070
+23323,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.67,-76.3,39710
+23324,STANDARD,0,Chesapeake,South Norfolk,,VA,Chesapeake city,America/New_York,757,NA,US,36.8,-76.27,20140
+23434,STANDARD,0,Suffolk,,,VA,Suffolk city,America/New_York,757,NA,US,36.7,-76.63,44580
+23435,STANDARD,0,Suffolk,,Driver,VA,Suffolk city,America/New_York,757,NA,US,36.84,-76.48,30160
+23451,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.87,-76.01,37930
+23452,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.85,-76.09,52460
+23453,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.78,-76.08,32640
+23454,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.82,-76.03,52790
+23455,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.89,-76.15,43980
+23456,STANDARD,0,Virginia Beach,"Princess Anne, Va Bch, Va Beach, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.73,-76.04,56910
+23462,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.84,-76.15,57670
+23464,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.8,-76.19,68380
+23503,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.95,-76.27,25120
+23505,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.91,-76.29,22200
+23513,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.89,-76.24,24820
+23518,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.92,-76.22,26470
+23601,STANDARD,0,Newport News,,N N,VA,Newport News city,America/New_York,757,NA,US,37.04,-76.48,22170
+23602,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.11,-76.52,36710
+23606,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.07,-76.51,23290
+23608,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.15,-76.54,39110
+23666,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.06,-76.41,45340
+23669,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.05,-76.34,33680
+23693,STANDARD,0,Yorktown,Tabb,,VA,York County,America/New_York,757,NA,US,37.12,-76.45,22900
+23701,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.81,-76.37,20630
+23703,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.89,-76.37,23780
+23803,STANDARD,0,Petersburg,"N Dinwiddie, North Dinwiddie, S Chesterfld, South Chesterfield",Matoaca,VA,Petersburg city,America/New_York,804,NA,US,37.21,-77.5,32350
+23831,STANDARD,0,Chester,,,VA,Chesterfield County,America/New_York,804,NA,US,37.35,-77.43,33950
+23832,STANDARD,0,Chesterfield,,"Beach, Chesterfld",VA,Chesterfield County,America/New_York,804,NA,US,37.39,-77.59,37180
+23834,STANDARD,0,Colonial Heights,"Colonial Hgts, S Chesterfld, South Chesterfield",,VA,Colonial Heights city,America/New_York,,NA,US,37.26,-77.39,23710
+23860,STANDARD,0,Hopewell,"N Prince Geo, North Prince George",,VA,Hopewell city,America/New_York,804,NA,US,37.29,-77.29,24160
+24012,STANDARD,0,Roanoke,,Bonsack,VA,Roanoke city,America/New_York,540,NA,US,37.31,-79.9,24380
+24018,STANDARD,0,Roanoke,Cave Spring,Poages Mill,VA,Roanoke County,America/New_York,540,NA,US,37.21,-80.04,36160
+24019,STANDARD,0,Roanoke,"Hollins, Hollins Clg",,VA,Roanoke County,America/New_York,540,NA,US,37.35,-79.95,25310
+24060,STANDARD,0,Blacksburg,,,VA,Montgomery County,America/New_York,540,NA,US,37.23,-80.42,25490
+24073,STANDARD,0,Christiansburg,Christiansbrg,"Cambria, Christnsbrg, Prices Fork",VA,Montgomery County,America/New_York,540,NA,US,37.14,-80.4,26920
+24112,STANDARD,0,Martinsville,,,VA,Henry County,America/New_York,276,NA,US,36.68,-79.86,23530
+24153,STANDARD,0,Salem,,"Bennett Springs, Fort Lewis, Glenvar, Hanging Rock, Kesslers Mill, Mason Cove",VA,Salem city,America/New_York,540,NA,US,37.28,-80.05,32470
+24401,STANDARD,0,Staunton,,"Staunton Park, Western State Hospital",VA,Staunton city,America/New_York,540,NA,US,38.15,-79.06,31740
+24502,STANDARD,0,Lynchburg,Timberlake,Fort Hill,VA,Lynchburg city,America/New_York,434,NA,US,37.36,-79.22,32370
+24540,STANDARD,0,Danville,,,VA,Danville city,America/New_York,434,NA,US,36.63,-79.43,24820
+24541,STANDARD,0,Danville,,Schoolfield,VA,Danville city,America/New_York,434,NA,US,36.58,-79.4,20850
+24551,STANDARD,0,Forest,,,VA,Bedford County,America/New_York,,NA,US,37.37,-79.27,24160
+20105,STANDARD,0,Aldie,Stone Ridge,,VA,Loudoun County,America/New_York,"540,703,571",NA,US,38.97,-77.64,34630
+20109,STANDARD,0,Manassas,"Sudley Spgs, Sudley Springs",,VA,Prince William County,America/New_York,"571,703",NA,US,38.79,-77.53,38530
+20110,STANDARD,0,Manassas,,,VA,Manassas city,America/New_York,"571,703",NA,US,38.74,-77.48,43850
+20111,STANDARD,0,Manassas,Manassas Park,,VA,Prince William County,America/New_York,"571,703",NA,US,38.75,-77.43,36140
+20112,STANDARD,0,Manassas,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.66,-77.43,28520
+20120,STANDARD,0,Centreville,Sully Station,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.84,-77.44,40290
+20121,STANDARD,0,Centreville,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.81,-77.46,26260
+20136,STANDARD,0,Bristow,,,VA,Prince William County,America/New_York,571,NA,US,38.74,-77.55,30590
+20147,STANDARD,0,Ashburn,,,VA,Loudoun County,America/New_York,703,NA,US,39.04,-77.48,63200
+20148,STANDARD,0,Ashburn,"Brambleton, Broadlands",,VA,Loudoun County,America/New_York,"571,703",NA,US,39,-77.52,61230
+20151,STANDARD,0,Chantilly,Fairfax,,VA,Fairfax County,America/New_York,571,NA,US,38.9,-77.45,21910
+20152,STANDARD,0,Chantilly,"Fairfax, South Riding",,VA,Loudoun County,America/New_York,"571,703",NA,US,38.92,-77.5,36330
+20155,STANDARD,0,Gainesville,,,VA,Prince William County,America/New_York,571,NA,US,38.79,-77.61,35920
+20164,STANDARD,0,Sterling,,,VA,Loudoun County,America/New_York,703,NA,US,39,-77.4,38910
+20165,STANDARD,0,Sterling,Potomac Falls,,VA,Loudoun County,America/New_York,703,NA,US,39.06,-77.39,32710
+20169,STANDARD,0,Haymarket,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.88,-77.65,27880
+20170,STANDARD,0,Herndon,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.96,-77.38,40020
+20171,STANDARD,0,Herndon,Oak Hill,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.92,-77.4,49590
+20175,STANDARD,0,Leesburg,,,VA,Loudoun County,America/New_York,"571,703,540",NA,US,39.1,-77.55,31520
+20176,STANDARD,0,Leesburg,Lansdowne,Lucketts,VA,Loudoun County,America/New_York,"540,571,703",NA,US,39.18,-77.54,48900
+20191,STANDARD,0,Reston,Herndon,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.93,-77.35,27840
+22003,STANDARD,0,Annandale,,,VA,Fairfax County,America/New_York,703,NA,US,38.83,-77.21,52810
+22015,STANDARD,0,Burke,Springfield,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.27,41990
+22030,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,571,NA,US,38.84,-77.34,48270
+22031,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.85,-77.29,30390
+22032,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.82,-77.29,28520
+22033,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,703,NA,US,38.88,-77.38,36440
+22041,STANDARD,0,Falls Church,"Baileys Crossroads, Baileys Xrds",,VA,Fairfax County,America/New_York,703,NA,US,38.84,-77.14,23270
+22042,STANDARD,0,Falls Church,Mosby,,VA,Fairfax County,America/New_York,571,NA,US,38.87,-77.2,30860
+22043,STANDARD,0,Falls Church,Pimmit,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.9,-77.2,22680
+22079,STANDARD,0,Lorton,Mason Neck,,VA,Fairfax County,America/New_York,"703,571",NA,US,38.7,-77.24,33200
+22101,STANDARD,0,Mc Lean,Mclean,Maclean,VA,Fairfax County,America/New_York,"571,703",NA,US,38.94,-77.19,29780
+22102,STANDARD,0,Mc Lean,"Mclean, Tysons, Tysons Corner, West Mclean",Maclean,VA,Fairfax County,America/New_York,"703,571",NA,US,38.95,-77.23,24130
+22150,STANDARD,0,Springfield,,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.17,26310
+22152,STANDARD,0,Springfield,"W Springfield, West Springfield",,VA,Fairfax County,America/New_York,"571,703",NA,US,38.77,-77.23,28740
+22153,STANDARD,0,Springfield,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.74,-77.24,31860
+22180,STANDARD,0,Vienna,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.9,-77.26,24750
+22182,STANDARD,0,Vienna,"Tysons, Tysons Corner",,VA,Fairfax County,America/New_York,"571,703",NA,US,38.94,-77.27,26320
+22191,STANDARD,0,Woodbridge,,Wdbg,VA,Prince William County,America/New_York,"571,703",NA,US,38.63,-77.26,67700
+22192,STANDARD,0,Woodbridge,"Lake Ridge, Prince William, Prince Wm",,VA,Prince William County,America/New_York,"571,703",NA,US,38.68,-77.31,56480
+22193,STANDARD,0,Woodbridge,Dale City,Dalecity,VA,Prince William County,America/New_York,"571,703",NA,US,38.64,-77.35,80020
+22201,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"571,703",NA,US,38.89,-77.1,30200
+22202,STANDARD,0,Arlington,,Crystal City,VA,Arlington County,America/New_York,"571,703",NA,US,38.86,-77.05,20190
+22204,STANDARD,0,Arlington,,South,VA,Arlington County,America/New_York,"571,703",NA,US,38.87,-77.1,46120
+22207,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"703,571",NA,US,38.91,-77.12,31340
+22304,STANDARD,0,Alexandria,,"Cameron Station, Theological Seminary, Trade Center",VA,Alexandria city,America/New_York,"571,703",NA,US,38.81,-77.11,42250
+22306,STANDARD,0,Alexandria,Community,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.76,-77.1,29400
+22309,STANDARD,0,Alexandria,Engleside,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.72,-77.11,30880
+22310,STANDARD,0,Alexandria,Franconia,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.12,27670
+22312,STANDARD,0,Alexandria,Lincolnia,,VA,Fairfax County,America/New_York,703,NA,US,38.82,-77.15,27290
+22314,STANDARD,0,Alexandria,,,VA,Alexandria city,America/New_York,"571,703",NA,US,38.81,-77.06,30850
+22315,STANDARD,0,Alexandria,Kingstowne,,VA,Fairfax County,America/New_York,703,NA,US,38.76,-77.15,26710
+22401,STANDARD,0,Fredericksburg,Fredericksbrg,"Enon, Fred",VA,Fredericksburg city,America/New_York,540,NA,US,38.29,-77.48,21760
+22405,STANDARD,0,Fredericksburg,"Falmouth, Fredericksbrg","Fred, Fredericksbg",VA,Stafford County,America/New_York,540,NA,US,38.31,-77.4,32760
+22406,STANDARD,0,Fredericksburg,"Falmouth, Fredericksbrg","Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Stafford County,America/New_York,540,NA,US,38.4,-77.54,25390
+22407,STANDARD,0,Fredericksburg,Fredericksbrg,"Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Spotsylvania County,America/New_York,540,NA,US,38.28,-77.58,57920
+22408,STANDARD,0,Fredericksburg,Fredericksbrg,"Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Spotsylvania County,America/New_York,540,NA,US,38.22,-77.44,29380
+22485,STANDARD,0,King George,Shiloh,Owens,VA,King George County,America/New_York,540,NA,US,38.26,-77.18,23390
+22554,STANDARD,0,Stafford,,,VA,Stafford County,America/New_York,540,NA,US,38.42,-77.4,59850
+22556,STANDARD,0,Stafford,,,VA,Stafford County,America/New_York,540,NA,US,38.47,-77.51,28160
+22601,STANDARD,0,Winchester,,,VA,Winchester city,America/New_York,540,NA,US,39.17,-78.17,24410
+22602,STANDARD,0,Winchester,,,VA,Frederick County,America/New_York,540,NA,US,39.14,-78.28,28510
+22630,STANDARD,0,Front Royal,"Lake Frederick, Lk Frederick, Riverton",,VA,Warren County,America/New_York,540,NA,US,38.92,-78.18,30220
+22655,STANDARD,0,Stephens City,,,VA,Frederick County,America/New_York,540,NA,US,39.09,-78.22,21240
+22701,STANDARD,0,Culpeper,"Raccoon Ford, Winston",Catalpa,VA,Culpeper County,America/New_York,540,NA,US,38.47,-78,33620
+22801,STANDARD,0,Harrisonburg,Rockingham,Harrisburg,VA,Harrisonburg city,America/New_York,540,NA,US,38.43,-78.87,28320
+22802,STANDARD,0,Harrisonburg,Rockingham,,VA,Harrisonburg city,America/New_York,540,NA,US,38.49,-78.86,23810
+22901,STANDARD,0,Charlottesville,Charlottesvle,Chville,VA,Albemarle County,America/New_York,434,NA,US,38.09,-78.56,32290
+22903,STANDARD,0,Charlottesville,"Charlottesvle, University",,VA,Charlottesville city,America/New_York,434,NA,US,38.01,-78.6,26250
+22980,STANDARD,0,Waynesboro,,Park,VA,Waynesboro city,America/New_York,540,NA,US,38.06,-78.9,29680
+23059,STANDARD,0,Glen Allen,,"Glenallen, Gln Alln",VA,Henrico County,America/New_York,804,NA,US,37.7,-77.57,39010
+23060,STANDARD,0,Glen Allen,,"Glen Allenw, Glenallen, Gln Alln",VA,Henrico County,America/New_York,804,NA,US,37.66,-77.48,36000
+23111,STANDARD,0,Mechanicsville,Mechanicsvlle,,VA,Hanover County,America/New_York,804,NA,US,37.62,-77.35,35450
+23112,STANDARD,0,Midlothian,,,VA,Chesterfield County,America/New_York,804,NA,US,37.43,-77.66,52470
+23113,STANDARD,0,Midlothian,,Sycamore Square,VA,Chesterfield County,America/New_York,804,NA,US,37.54,-77.68,26790
+23114,STANDARD,0,Midlothian,,,VA,Chesterfield County,America/New_York,804,NA,US,37.48,-77.65,20460
+23116,STANDARD,0,Mechanicsville,Mechanicsvlle,,VA,Hanover County,America/New_York,804,NA,US,37.68,-77.34,31790
+23139,STANDARD,0,Powhatan,Macon,"Powhatand, Powhatano",VA,Powhatan County,America/New_York,804,NA,US,37.54,-77.92,25800
+23185,STANDARD,0,Williamsburg,,"Wlmg, Wmsbg",VA,James City County,America/New_York,757,NA,US,37.27,-76.7,41710
+23188,STANDARD,0,Williamsburg,,Wlmg,VA,James City County,America/New_York,757,NA,US,37.35,-76.77,42790
+23222,STANDARD,0,Richmond,,,VA,Richmond city,America/New_York,804,NA,US,37.58,-77.42,20450
+23223,STANDARD,0,Richmond,,,VA,Henrico County,America/New_York,804,NA,US,37.56,-77.38,41740
+23224,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Richmond city,America/New_York,804,NA,US,37.5,-77.47,29370
+23225,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",Forest Hill,VA,Richmond city,America/New_York,804,NA,US,37.52,-77.51,32940
+23227,STANDARD,0,Richmond,,,VA,Henrico County,America/New_York,804,NA,US,37.61,-77.44,21100
+23228,STANDARD,0,Henrico,Richmond,Staples Mill,VA,Henrico County,America/New_York,804,NA,US,37.63,-77.49,30420
+23229,STANDARD,0,Henrico,"Regency, Richmond","Tuckahoe, Westbury",VA,Henrico County,America/New_York,804,NA,US,37.59,-77.57,31490
+23231,STANDARD,0,Henrico,Richmond,"Millers, Montrose, Montrose Heights, Varina",VA,Henrico County,America/New_York,804,NA,US,37.44,-77.32,33480
+23233,STANDARD,0,Henrico,"Richmond, Ridge",,VA,Henrico County,America/New_York,804,NA,US,37.65,-77.62,30710
+23234,STANDARD,0,Richmond,"Ampthill, N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.45,-77.47,39130
+23235,STANDARD,0,Richmond,"Bon Air, N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.51,-77.56,30870
+23236,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.48,-77.59,26340
+23237,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.4,-77.45,22270
+23238,STANDARD,0,Henrico,Richmond,,VA,Henrico County,America/New_York,804,NA,US,37.6,-77.65,23730
+23320,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.75,-76.22,53440
+23321,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.8,-76.42,35320
+23322,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.62,-76.23,62070
+23323,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.67,-76.3,39710
+23324,STANDARD,0,Chesapeake,South Norfolk,,VA,Chesapeake city,America/New_York,757,NA,US,36.8,-76.27,20140
+23434,STANDARD,0,Suffolk,,,VA,Suffolk city,America/New_York,757,NA,US,36.7,-76.63,44580
+23435,STANDARD,0,Suffolk,,Driver,VA,Suffolk city,America/New_York,757,NA,US,36.84,-76.48,30160
+23451,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.87,-76.01,37930
+23452,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.85,-76.09,52460
+23453,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.78,-76.08,32640
+23454,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.82,-76.03,52790
+23455,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.89,-76.15,43980
+23456,STANDARD,0,Virginia Beach,"Princess Anne, Va Bch, Va Beach, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.73,-76.04,56910
+23462,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.84,-76.15,57670
+23464,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.8,-76.19,68380
+23503,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.95,-76.27,25120
+23505,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.91,-76.29,22200
+23513,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.89,-76.24,24820
+23518,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.92,-76.22,26470
+23601,STANDARD,0,Newport News,,N N,VA,Newport News city,America/New_York,757,NA,US,37.04,-76.48,22170
+23602,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.11,-76.52,36710
+23606,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.07,-76.51,23290
+23608,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.15,-76.54,39110
+23666,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.06,-76.41,45340
+23669,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.05,-76.34,33680
+23693,STANDARD,0,Yorktown,Tabb,,VA,York County,America/New_York,757,NA,US,37.12,-76.45,22900
+23701,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.81,-76.37,20630
+23703,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.89,-76.37,23780
+23803,STANDARD,0,Petersburg,"N Dinwiddie, North Dinwiddie, S Chesterfld, South Chesterfield",Matoaca,VA,Petersburg city,America/New_York,804,NA,US,37.21,-77.5,32350
+23831,STANDARD,0,Chester,,,VA,Chesterfield County,America/New_York,804,NA,US,37.35,-77.43,33950
+23832,STANDARD,0,Chesterfield,,"Beach, Chesterfld",VA,Chesterfield County,America/New_York,804,NA,US,37.39,-77.59,37180
+23834,STANDARD,0,Colonial Heights,"Colonial Hgts, S Chesterfld, South Chesterfield",,VA,Colonial Heights city,America/New_York,,NA,US,37.26,-77.39,23710
+23860,STANDARD,0,Hopewell,"N Prince Geo, North Prince George",,VA,Hopewell city,America/New_York,804,NA,US,37.29,-77.29,24160
+24012,STANDARD,0,Roanoke,,Bonsack,VA,Roanoke city,America/New_York,540,NA,US,37.31,-79.9,24380
+24018,STANDARD,0,Roanoke,Cave Spring,Poages Mill,VA,Roanoke County,America/New_York,540,NA,US,37.21,-80.04,36160
+24019,STANDARD,0,Roanoke,"Hollins, Hollins Clg",,VA,Roanoke County,America/New_York,540,NA,US,37.35,-79.95,25310
+24060,STANDARD,0,Blacksburg,,,VA,Montgomery County,America/New_York,540,NA,US,37.23,-80.42,25490
+24073,STANDARD,0,Christiansburg,Christiansbrg,"Cambria, Christnsbrg, Prices Fork",VA,Montgomery County,America/New_York,540,NA,US,37.14,-80.4,26920
+24112,STANDARD,0,Martinsville,,,VA,Henry County,America/New_York,276,NA,US,36.68,-79.86,23530
+24153,STANDARD,0,Salem,,"Bennett Springs, Fort Lewis, Glenvar, Hanging Rock, Kesslers Mill, Mason Cove",VA,Salem city,America/New_York,540,NA,US,37.28,-80.05,32470
+24401,STANDARD,0,Staunton,,"Staunton Park, Western State Hospital",VA,Staunton city,America/New_York,540,NA,US,38.15,-79.06,31740
+24502,STANDARD,0,Lynchburg,Timberlake,Fort Hill,VA,Lynchburg city,America/New_York,434,NA,US,37.36,-79.22,32370
+24540,STANDARD,0,Danville,,,VA,Danville city,America/New_York,434,NA,US,36.63,-79.43,24820
+24541,STANDARD,0,Danville,,Schoolfield,VA,Danville city,America/New_York,434,NA,US,36.58,-79.4,20850
+24551,STANDARD,0,Forest,,,VA,Bedford County,America/New_York,,NA,US,37.37,-79.27,24160
+20105,STANDARD,0,Aldie,Stone Ridge,,VA,Loudoun County,America/New_York,"540,703,571",NA,US,38.97,-77.64,34630
+20109,STANDARD,0,Manassas,"Sudley Spgs, Sudley Springs",,VA,Prince William County,America/New_York,"571,703",NA,US,38.79,-77.53,38530
+20110,STANDARD,0,Manassas,,,VA,Manassas city,America/New_York,"571,703",NA,US,38.74,-77.48,43850
+20111,STANDARD,0,Manassas,Manassas Park,,VA,Prince William County,America/New_York,"571,703",NA,US,38.75,-77.43,36140
+20112,STANDARD,0,Manassas,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.66,-77.43,28520
+20120,STANDARD,0,Centreville,Sully Station,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.84,-77.44,40290
+20121,STANDARD,0,Centreville,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.81,-77.46,26260
+20136,STANDARD,0,Bristow,,,VA,Prince William County,America/New_York,571,NA,US,38.74,-77.55,30590
+20147,STANDARD,0,Ashburn,,,VA,Loudoun County,America/New_York,703,NA,US,39.04,-77.48,63200
+20148,STANDARD,0,Ashburn,"Brambleton, Broadlands",,VA,Loudoun County,America/New_York,"571,703",NA,US,39,-77.52,61230
+20151,STANDARD,0,Chantilly,Fairfax,,VA,Fairfax County,America/New_York,571,NA,US,38.9,-77.45,21910
+20152,STANDARD,0,Chantilly,"Fairfax, South Riding",,VA,Loudoun County,America/New_York,"571,703",NA,US,38.92,-77.5,36330
+20155,STANDARD,0,Gainesville,,,VA,Prince William County,America/New_York,571,NA,US,38.79,-77.61,35920
+20164,STANDARD,0,Sterling,,,VA,Loudoun County,America/New_York,703,NA,US,39,-77.4,38910
+20165,STANDARD,0,Sterling,Potomac Falls,,VA,Loudoun County,America/New_York,703,NA,US,39.06,-77.39,32710
+20169,STANDARD,0,Haymarket,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.88,-77.65,27880
+20170,STANDARD,0,Herndon,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.96,-77.38,40020
+20171,STANDARD,0,Herndon,Oak Hill,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.92,-77.4,49590
+20175,STANDARD,0,Leesburg,,,VA,Loudoun County,America/New_York,"571,703,540",NA,US,39.1,-77.55,31520
+20176,STANDARD,0,Leesburg,Lansdowne,Lucketts,VA,Loudoun County,America/New_York,"540,571,703",NA,US,39.18,-77.54,48900
+20191,STANDARD,0,Reston,Herndon,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.93,-77.35,27840
+22003,STANDARD,0,Annandale,,,VA,Fairfax County,America/New_York,703,NA,US,38.83,-77.21,52810
+22015,STANDARD,0,Burke,Springfield,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.27,41990
+22030,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,571,NA,US,38.84,-77.34,48270
+22031,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.85,-77.29,30390
+22032,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.82,-77.29,28520
+22033,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,703,NA,US,38.88,-77.38,36440
+22041,STANDARD,0,Falls Church,"Baileys Crossroads, Baileys Xrds",,VA,Fairfax County,America/New_York,703,NA,US,38.84,-77.14,23270
+22042,STANDARD,0,Falls Church,Mosby,,VA,Fairfax County,America/New_York,571,NA,US,38.87,-77.2,30860
+22043,STANDARD,0,Falls Church,Pimmit,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.9,-77.2,22680
+22079,STANDARD,0,Lorton,Mason Neck,,VA,Fairfax County,America/New_York,"703,571",NA,US,38.7,-77.24,33200
+22101,STANDARD,0,Mc Lean,Mclean,Maclean,VA,Fairfax County,America/New_York,"571,703",NA,US,38.94,-77.19,29780
+22102,STANDARD,0,Mc Lean,"Mclean, Tysons, Tysons Corner, West Mclean",Maclean,VA,Fairfax County,America/New_York,"703,571",NA,US,38.95,-77.23,24130
+22150,STANDARD,0,Springfield,,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.17,26310
+22152,STANDARD,0,Springfield,"W Springfield, West Springfield",,VA,Fairfax County,America/New_York,"571,703",NA,US,38.77,-77.23,28740
+22153,STANDARD,0,Springfield,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.74,-77.24,31860
+22180,STANDARD,0,Vienna,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.9,-77.26,24750
+22182,STANDARD,0,Vienna,"Tysons, Tysons Corner",,VA,Fairfax County,America/New_York,"571,703",NA,US,38.94,-77.27,26320
+22191,STANDARD,0,Woodbridge,,Wdbg,VA,Prince William County,America/New_York,"571,703",NA,US,38.63,-77.26,67700
+22192,STANDARD,0,Woodbridge,"Lake Ridge, Prince William, Prince Wm",,VA,Prince William County,America/New_York,"571,703",NA,US,38.68,-77.31,56480
+22193,STANDARD,0,Woodbridge,Dale City,Dalecity,VA,Prince William County,America/New_York,"571,703",NA,US,38.64,-77.35,80020
+22201,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"571,703",NA,US,38.89,-77.1,30200
+22202,STANDARD,0,Arlington,,Crystal City,VA,Arlington County,America/New_York,"571,703",NA,US,38.86,-77.05,20190
+22204,STANDARD,0,Arlington,,South,VA,Arlington County,America/New_York,"571,703",NA,US,38.87,-77.1,46120
+22207,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"703,571",NA,US,38.91,-77.12,31340
+22304,STANDARD,0,Alexandria,,"Cameron Station, Theological Seminary, Trade Center",VA,Alexandria city,America/New_York,"571,703",NA,US,38.81,-77.11,42250
+22306,STANDARD,0,Alexandria,Community,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.76,-77.1,29400
+22309,STANDARD,0,Alexandria,Engleside,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.72,-77.11,30880
+22310,STANDARD,0,Alexandria,Franconia,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.12,27670
+22312,STANDARD,0,Alexandria,Lincolnia,,VA,Fairfax County,America/New_York,703,NA,US,38.82,-77.15,27290
+22314,STANDARD,0,Alexandria,,,VA,Alexandria city,America/New_York,"571,703",NA,US,38.81,-77.06,30850
+22315,STANDARD,0,Alexandria,Kingstowne,,VA,Fairfax County,America/New_York,703,NA,US,38.76,-77.15,26710
+22401,STANDARD,0,Fredericksburg,Fredericksbrg,"Enon, Fred",VA,Fredericksburg city,America/New_York,540,NA,US,38.29,-77.48,21760
+22405,STANDARD,0,Fredericksburg,"Falmouth, Fredericksbrg","Fred, Fredericksbg",VA,Stafford County,America/New_York,540,NA,US,38.31,-77.4,32760
+22406,STANDARD,0,Fredericksburg,"Falmouth, Fredericksbrg","Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Stafford County,America/New_York,540,NA,US,38.4,-77.54,25390
+22407,STANDARD,0,Fredericksburg,Fredericksbrg,"Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Spotsylvania County,America/New_York,540,NA,US,38.28,-77.58,57920
+22408,STANDARD,0,Fredericksburg,Fredericksbrg,"Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Spotsylvania County,America/New_York,540,NA,US,38.22,-77.44,29380
+22485,STANDARD,0,King George,Shiloh,Owens,VA,King George County,America/New_York,540,NA,US,38.26,-77.18,23390
+22554,STANDARD,0,Stafford,,,VA,Stafford County,America/New_York,540,NA,US,38.42,-77.4,59850
+22556,STANDARD,0,Stafford,,,VA,Stafford County,America/New_York,540,NA,US,38.47,-77.51,28160
+22601,STANDARD,0,Winchester,,,VA,Winchester city,America/New_York,540,NA,US,39.17,-78.17,24410
+22602,STANDARD,0,Winchester,,,VA,Frederick County,America/New_York,540,NA,US,39.14,-78.28,28510
+22630,STANDARD,0,Front Royal,"Lake Frederick, Lk Frederick, Riverton",,VA,Warren County,America/New_York,540,NA,US,38.92,-78.18,30220
+22655,STANDARD,0,Stephens City,,,VA,Frederick County,America/New_York,540,NA,US,39.09,-78.22,21240
+22701,STANDARD,0,Culpeper,"Raccoon Ford, Winston",Catalpa,VA,Culpeper County,America/New_York,540,NA,US,38.47,-78,33620
+22801,STANDARD,0,Harrisonburg,Rockingham,Harrisburg,VA,Harrisonburg city,America/New_York,540,NA,US,38.43,-78.87,28320
+22802,STANDARD,0,Harrisonburg,Rockingham,,VA,Harrisonburg city,America/New_York,540,NA,US,38.49,-78.86,23810
+22901,STANDARD,0,Charlottesville,Charlottesvle,Chville,VA,Albemarle County,America/New_York,434,NA,US,38.09,-78.56,32290
+22903,STANDARD,0,Charlottesville,"Charlottesvle, University",,VA,Charlottesville city,America/New_York,434,NA,US,38.01,-78.6,26250
+22980,STANDARD,0,Waynesboro,,Park,VA,Waynesboro city,America/New_York,540,NA,US,38.06,-78.9,29680
+23059,STANDARD,0,Glen Allen,,"Glenallen, Gln Alln",VA,Henrico County,America/New_York,804,NA,US,37.7,-77.57,39010
+23060,STANDARD,0,Glen Allen,,"Glen Allenw, Glenallen, Gln Alln",VA,Henrico County,America/New_York,804,NA,US,37.66,-77.48,36000
+23111,STANDARD,0,Mechanicsville,Mechanicsvlle,,VA,Hanover County,America/New_York,804,NA,US,37.62,-77.35,35450
+23112,STANDARD,0,Midlothian,,,VA,Chesterfield County,America/New_York,804,NA,US,37.43,-77.66,52470
+23113,STANDARD,0,Midlothian,,Sycamore Square,VA,Chesterfield County,America/New_York,804,NA,US,37.54,-77.68,26790
+23114,STANDARD,0,Midlothian,,,VA,Chesterfield County,America/New_York,804,NA,US,37.48,-77.65,20460
+23116,STANDARD,0,Mechanicsville,Mechanicsvlle,,VA,Hanover County,America/New_York,804,NA,US,37.68,-77.34,31790
+23139,STANDARD,0,Powhatan,Macon,"Powhatand, Powhatano",VA,Powhatan County,America/New_York,804,NA,US,37.54,-77.92,25800
+23185,STANDARD,0,Williamsburg,,"Wlmg, Wmsbg",VA,James City County,America/New_York,757,NA,US,37.27,-76.7,41710
+23188,STANDARD,0,Williamsburg,,Wlmg,VA,James City County,America/New_York,757,NA,US,37.35,-76.77,42790
+23222,STANDARD,0,Richmond,,,VA,Richmond city,America/New_York,804,NA,US,37.58,-77.42,20450
+23223,STANDARD,0,Richmond,,,VA,Henrico County,America/New_York,804,NA,US,37.56,-77.38,41740
+23224,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Richmond city,America/New_York,804,NA,US,37.5,-77.47,29370
+23225,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",Forest Hill,VA,Richmond city,America/New_York,804,NA,US,37.52,-77.51,32940
+23227,STANDARD,0,Richmond,,,VA,Henrico County,America/New_York,804,NA,US,37.61,-77.44,21100
+23228,STANDARD,0,Henrico,Richmond,Staples Mill,VA,Henrico County,America/New_York,804,NA,US,37.63,-77.49,30420
+23229,STANDARD,0,Henrico,"Regency, Richmond","Tuckahoe, Westbury",VA,Henrico County,America/New_York,804,NA,US,37.59,-77.57,31490
+23231,STANDARD,0,Henrico,Richmond,"Millers, Montrose, Montrose Heights, Varina",VA,Henrico County,America/New_York,804,NA,US,37.44,-77.32,33480
+23233,STANDARD,0,Henrico,"Richmond, Ridge",,VA,Henrico County,America/New_York,804,NA,US,37.65,-77.62,30710
+23234,STANDARD,0,Richmond,"Ampthill, N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.45,-77.47,39130
+23235,STANDARD,0,Richmond,"Bon Air, N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.51,-77.56,30870
+23236,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.48,-77.59,26340
+23237,STANDARD,0,Richmond,"N Chesterfld, North Chesterfield",,VA,Chesterfield County,America/New_York,804,NA,US,37.4,-77.45,22270
+23238,STANDARD,0,Henrico,Richmond,,VA,Henrico County,America/New_York,804,NA,US,37.6,-77.65,23730
+23320,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.75,-76.22,53440
+23321,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.8,-76.42,35320
+23322,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.62,-76.23,62070
+23323,STANDARD,0,Chesapeake,,,VA,Chesapeake city,America/New_York,757,NA,US,36.67,-76.3,39710
+23324,STANDARD,0,Chesapeake,South Norfolk,,VA,Chesapeake city,America/New_York,757,NA,US,36.8,-76.27,20140
+23434,STANDARD,0,Suffolk,,,VA,Suffolk city,America/New_York,757,NA,US,36.7,-76.63,44580
+23435,STANDARD,0,Suffolk,,Driver,VA,Suffolk city,America/New_York,757,NA,US,36.84,-76.48,30160
+23451,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.87,-76.01,37930
+23452,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.85,-76.09,52460
+23453,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.78,-76.08,32640
+23454,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.82,-76.03,52790
+23455,STANDARD,0,Virginia Beach,Virginia Bch,,VA,Virginia Beach city,America/New_York,757,NA,US,36.89,-76.15,43980
+23456,STANDARD,0,Virginia Beach,"Princess Anne, Va Bch, Va Beach, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.73,-76.04,56910
+23462,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.84,-76.15,57670
+23464,STANDARD,0,Virginia Beach,"Va Bch, Va Beach, Vab, Virginia Bch",,VA,Virginia Beach city,America/New_York,757,NA,US,36.8,-76.19,68380
+23503,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.95,-76.27,25120
+23505,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.91,-76.29,22200
+23513,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.89,-76.24,24820
+23518,STANDARD,0,Norfolk,,,VA,Norfolk city,America/New_York,757,NA,US,36.92,-76.22,26470
+23601,STANDARD,0,Newport News,,N N,VA,Newport News city,America/New_York,757,NA,US,37.04,-76.48,22170
+23602,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.11,-76.52,36710
+23606,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.07,-76.51,23290
+23608,STANDARD,0,Newport News,,,VA,Newport News city,America/New_York,757,NA,US,37.15,-76.54,39110
+23666,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.06,-76.41,45340
+23669,STANDARD,0,Hampton,,,VA,Hampton city,America/New_York,757,NA,US,37.05,-76.34,33680
+23693,STANDARD,0,Yorktown,Tabb,,VA,York County,America/New_York,757,NA,US,37.12,-76.45,22900
+23701,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.81,-76.37,20630
+23703,STANDARD,0,Portsmouth,,,VA,Portsmouth city,America/New_York,757,NA,US,36.89,-76.37,23780
+23803,STANDARD,0,Petersburg,"N Dinwiddie, North Dinwiddie, S Chesterfld, South Chesterfield",Matoaca,VA,Petersburg city,America/New_York,804,NA,US,37.21,-77.5,32350
+23831,STANDARD,0,Chester,,,VA,Chesterfield County,America/New_York,804,NA,US,37.35,-77.43,33950
+23832,STANDARD,0,Chesterfield,,"Beach, Chesterfld",VA,Chesterfield County,America/New_York,804,NA,US,37.39,-77.59,37180
+23834,STANDARD,0,Colonial Heights,"Colonial Hgts, S Chesterfld, South Chesterfield",,VA,Colonial Heights city,America/New_York,,NA,US,37.26,-77.39,23710
+23860,STANDARD,0,Hopewell,"N Prince Geo, North Prince George",,VA,Hopewell city,America/New_York,804,NA,US,37.29,-77.29,24160
+24012,STANDARD,0,Roanoke,,Bonsack,VA,Roanoke city,America/New_York,540,NA,US,37.31,-79.9,24380
+24018,STANDARD,0,Roanoke,Cave Spring,Poages Mill,VA,Roanoke County,America/New_York,540,NA,US,37.21,-80.04,36160
+24019,STANDARD,0,Roanoke,"Hollins, Hollins Clg",,VA,Roanoke County,America/New_York,540,NA,US,37.35,-79.95,25310
+24060,STANDARD,0,Blacksburg,,,VA,Montgomery County,America/New_York,540,NA,US,37.23,-80.42,25490
+24073,STANDARD,0,Christiansburg,Christiansbrg,"Cambria, Christnsbrg, Prices Fork",VA,Montgomery County,America/New_York,540,NA,US,37.14,-80.4,26920
+24112,STANDARD,0,Martinsville,,,VA,Henry County,America/New_York,276,NA,US,36.68,-79.86,23530
+24153,STANDARD,0,Salem,,"Bennett Springs, Fort Lewis, Glenvar, Hanging Rock, Kesslers Mill, Mason Cove",VA,Salem city,America/New_York,540,NA,US,37.28,-80.05,32470
+24401,STANDARD,0,Staunton,,"Staunton Park, Western State Hospital",VA,Staunton city,America/New_York,540,NA,US,38.15,-79.06,31740
+24502,STANDARD,0,Lynchburg,Timberlake,Fort Hill,VA,Lynchburg city,America/New_York,434,NA,US,37.36,-79.22,32370
+24540,STANDARD,0,Danville,,,VA,Danville city,America/New_York,434,NA,US,36.63,-79.43,24820
+24541,STANDARD,0,Danville,,Schoolfield,VA,Danville city,America/New_York,434,NA,US,36.58,-79.4,20850
+24551,STANDARD,0,Forest,,,VA,Bedford County,America/New_York,,NA,US,37.37,-79.27,24160
