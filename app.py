@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import statsmodels.api as sm
 
 hp = pd.read_csv("C:\\Users\\Ara\\Desktop\\Data Analysis Capstone\\HousePricesV3.csv")
 cg = pd.read_csv("C:\\Users\\Ara\\Desktop\\Data Analysis Capstone\\CrimeGradeV3.csv")
@@ -17,23 +18,50 @@ hp = hp.drop('address', axis=1)
 hp['price'] = hp['price'].astype(int)
 hp['zipcode'] = hp['zipcode'].astype(int)
 
+grouped = hp.groupby('zipcode')['price'].mean().reset_index()
+pd.options.display.float_format = '{:.0f}'.format
+mergedData = grouped.merge(cg, left_on = 'zipcode', right_on ='zipcode')
+
 st.title("Housing Prices and Crime Grades")
 
-st.subheader("Line Chart: Prices vs Crime")
+filter = st.radio(
+    "Which data would you like to view against average housing prices?",
+    (('Overall Crime', 'Property Crime', 'Violent Crime', 'Other Crime'))
+)
+if filter == 'Overall Crime':
+    
+    st.subheader("Prices vs Overall Crime")
+    st.bar_chart(data=mergedData, x="overall", y="price")
 
-st
-st.bar_chart(data = topTenStores, x = 'store_id' , y = 'store_sales')
+if filter == 'Property Crime':
+    st.subheader("Prices vs Property Crime")
+    st.bar_chart(data=mergedData, x="property", y="price")
 
-st.subheader("Top Five Performing Areas")
+if filter == 'Violent Crime':
+    st.subheader("Prices vs Violent Crime")
+    st.bar_chart(data=mergedData, x="violent", y="price")
 
-topTenAreas = df.groupby('store_area')['store_sales'].sum().sort_values(ascending = False).head(5)
-tenAreas = topTenAreas.to_frame().reset_index()
-st.bar_chart(data = tenAreas, x = 'store_area', y = 'store_sales')
+if filter == 'Other Crime':
+    st.subheader("Prices vs Other Crime")
+    st.bar_chart(data=mergedData, x="other", y="price")
 
-st.subheader("Average Daily Customer Count")
-avgDailyCust = int(df['daily_customer_count'].mean())
-st.markdown(":blue[" + str(avgDailyCust) + "]")
+#Linear Regression
 
-st.subheader("Total Sales")
-totalSales = df['store_sales'].sum()
-st.markdown(":green[" + str(totalSales) + "]")
+values = st.slider('Select a violent crime grade from 1 - 15', 1, 15)
+
+# sets X to violent
+
+x = mergedData['violent']
+
+# sets Y to price
+
+y = mergedData['price']
+
+x = sm.add_constant(x)
+results = sm.OLS(y,x).fit()
+
+new_df = pd.DataFrame({'constant':1, 'violent':[ 1, 2,3, 4,5, 6,7, 8, 9, 10, 11, 12, 13, 14, 15]})
+predictions = results.predict(new_df)
+new_df['price_predictions'] = results.predict(new_df)
+
+st.write('Anticipated Prices:', "{:,}".format(int(new_df.iloc[values-1,2])))
